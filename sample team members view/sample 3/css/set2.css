@@ -92,11 +92,13 @@ figure.effect-phoebe {
 figure.effect-phoebe img {
 	opacity: 0.85;
 	-webkit-transition: opacity 0.35s;
-	transition: opacity 0.35s;
+	transition: all 1s;
 }
 
 figure.effect-phoebe:hover img {
 	opacity: 0.6;
+	transform: scale(1.5);
+
 }
 
 figure.effect-phoebe figcaption::before {
@@ -163,7 +165,19 @@ figure.effect-phoebe p a:nth-child(3) {
 figure.effect-phoebe:hover p a {
 	opacity: 1;
 	-webkit-transform: translate3d(0,0,0);
-	transform: translate3d(0,0,0);
+	transform: translate3d(0,0,0) scale(1.5);
+	margin: auto 2%;
+
+
+}
+
+figure.effect-phoebe:hover p a:hover {
+	opacity: 1;
+	-webkit-transform: translate3d(0,0,0);
+	transform: translate3d(0,0,0) scale(2.0);
+	color: black;
+
+
 }
 
 
