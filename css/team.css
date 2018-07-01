@@ -1,0 +1,322 @@
+/* body {
+  padding: 50px;
+} */
+
+.carousel {
+  -moz-transition: ease 0.3s;
+  -o-transition: ease 0.3s;
+  -webkit-transition: ease 0.3s;
+  transition: ease 0.3s;
+}
+.carousel .slick-slide {
+  text-align: center;
+  margin: 0 0px;
+  display: inline-block;
+}
+.carousel .slick-slide .radio-inline {
+  position: relative;
+}
+.carousel .slick-slide .radio-inline:before {
+  position: absolute;
+  font-size: 32px;
+  font-family: 'Glyphicons Halflings';
+  display: block;
+  content: '\e084';
+  left: 50%;
+  bottom: 50%;
+  color: red;
+  width: 32px;
+  height: 32px;
+  margin: -16px 0 0 -16px;
+  z-index: 100;
+  opacity: 0;
+  -moz-transition: ease 0.3s;
+  -o-transition: ease 0.3s;
+  -webkit-transition: ease 0.3s;
+  transition: ease 0.3s;
+  -moz-transform: scale(0);
+  -ms-transform: scale(0);
+  -webkit-transform: scale(0);
+  transform: scale(0);
+}
+.carousel .slick-slide .radio-inline.selected:before {
+  opacity: 1;
+  -moz-transform: scale(1);
+  -ms-transform: scale(1);
+  -webkit-transform: scale(1);
+  transform: scale(1);
+}
+.carousel .slick-slide .radio-inline.selected img {
+  border-color: red;
+  opacity: 0.3;
+}
+.carousel .slick-slide label {
+  padding: 0;
+  position: relative;
+}
+.carousel .slick-slide input {
+  visibility: hidden;
+}
+.carousel .slick-slide img {
+  /* padding: 5px; */
+  /* padding-right: 5px; */
+  /* border: 2px solid #eee; */
+  z-index: 1;
+  -moz-transition: ease 0.3s;
+  -o-transition: ease 0.3s;
+  -webkit-transition: ease 0.3s;
+  transition: ease 0.3s;
+}
+.carousel .slick-slide:hover img {
+  border-color: #333;
+}
+
+.carousel-inner {
+  overflow: visible;
+}
+.carousel-inner button {
+/* content: none; */
+
+}
+
+.slick-track {
+  margin-bottom: 200px;
+  outline: none;
+
+}
+
+#sponsors  div.slick-list.draggable{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+.slick-prev,
+.slick-next {
+  text-shadow: 0px 0px 16px rgba(0, 0, 0, 0.8);
+
+  /* content: none; */
+  border: none;
+  outline: none;
+  background: none;
+  /* width:; */
+  height: 32px;
+  font-size: 5em;
+  font-weight: bolder;
+  color: black;
+  margin: 10px;
+  /* margin-top: -20px; */
+  -moz-border-radius: 100%;
+  -webkit-border-radius: 100%;
+  border-radius: 50%;
+  z-index: 99999;.
+    transition-duration: 0.3s;
+
+}
+
+.slick-prev {
+  position: absolute;
+  top: 68%;
+  left:-25px;
+  z-index: 99999;
+
+  transition-duration: 0.3s;
+
+}
+.slick-prev:hover {
+transform: scale(1.4);
+}
+.slick-next:hover {
+transform: scale(1.4);
+}
+.slick-next {
+  transition-duration: 0.3s;
+
+  position: absolute;
+  top: 68%;
+  right:-15px;
+
+}
+.slick-prev:before,
+.slick-next:before {
+  /* content: none; */
+  /* content: "si"; */
+  font-size: 32px;
+  color: #333;
+  -moz-transition: ease 0.3s;
+  -o-transition: ease 0.3s;
+  -webkit-transition: ease 0.3s;
+  transition: ease 0.3s;
+}
+
+.slick-next::before {
+
+  /* content: none; */
+  /* content: "si"; */
+  font-size: 32px;
+  color: #333;
+  -moz-transition: ease 0.3s;
+  -o-transition: ease 0.3s;
+  -webkit-transition: ease 0.3s;
+  transition: ease 0.3s;
+}
+
+.filter {
+  margin-top: 15px;
+  width: 100%;
+  border-top: 1px solid #eee;
+  padding-top: 15px;
+}
+.filter li {
+  display: none;
+}
+.filter li.select-filter, .filter li:first-child {
+  display: inline-block;
+}
+@media screen and (min-width: 768px) {
+  .filter li {
+    display: inline-block;
+  }
+  .filter li.select-filter {
+    display: none;
+  }
+  .our-team{
+    margin: 10px;
+}
+
+}
+
+
+#teampad {
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+
+
+#teampa {
+  padding-left: 2px;
+  padding-right: 2px;
+}
+
+
+.our-team{
+    border: 2px solid #ff3232;
+    border-radius: 10px;
+    text-align: center;
+    margin: 5px;
+    z-index: 1;
+    position: relative;
+}
+@media screen and (min-width: 768px) {
+  .filter li {
+    display: inline-block;
+  }
+  .filter li.select-filter {
+    display: none;
+  }
+  .our-team{
+    margin: 10px;
+}
+
+}
+.our-team:before,
+.our-team:after{
+    content: "";
+    width: 100%;
+    height: 104%;
+    background: #ff3232;
+    position: absolute;
+    top: 50%;
+    left: 0;
+    z-index: -1;
+    transform: translateY(-50%) scaleX(0.3);
+    transition: all 0.3s ease 0s;
+}
+.our-team:after{
+    width: 106%;
+    left: 50%;
+    transform: translate(-50%, -50%) scaleY(0.25);
+}
+.our-team:hover:before{ transform: translateY(-50%) scaleX(0.7); }
+.our-team:hover:after{ transform: translate(-50%, -50%) scaleY(0.7); }
+.our-team img{
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    transition: all 0.3s ease 0s;
+}
+.our-team .team-content{
+    width: 93%;
+    padding: 25px 0 10px;
+    background: #ff4444;
+    position: absolute;
+    bottom: 50px;
+    left: 50%;
+    opacity: 0;
+    -webkit-clip-path: polygon(0% 15%, 15% 15%, 15% 0%, 85% 0%, 85% 15%, 100% 15%, 100% 85%, 85% 85%, 85% 100%, 15% 100%, 15% 85%, 0% 85%);
+    clip-path: polygon(0% 15%, 15% 15%, 15% 0%, 85% 0%, 85% 15%, 100% 15%, 100% 85%, 85% 85%, 85% 100%, 15% 100%, 15% 85%, 0% 85%);
+    transform: translateX(-50%);
+    transition: all 0.3s cubic-bezier(0.5, 0.2,0.1,0.9) 0.2s;
+    display: none;
+}
+.our-team:hover .team-content{
+    bottom: 10px;
+    opacity: 0.8;
+    display: inline-block;
+
+}
+.our-team .title{
+    font-size: 1.5em;
+    font-weight: 600;
+    color: #fff;
+    letter-spacing: 1px;
+    text-transform: capitalize;
+    margin: 0;
+}
+.our-team .post{
+    display: block;
+    font-size: 1.1em;
+    color: #fff;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+.our-team .social{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+.our-team .social li{
+    display: inline-block;
+    margin: 0 5px;
+}
+.our-team .social li a{
+    display: block;
+    width: 1.1em;
+    height: 1.1em;
+    line-height: 10px;
+    border-radius: 50%;
+    background: #fff;
+    font-size: 20px;
+    color: #ff3232;
+    transition: all 0.4s ease 0s;
+}
+.our-team .social li a:hover{
+    background: linear-gradient(to bottom,#ff3232, darkred);
+    box-shadow: 0 0 0 5px rgba(255,255,255,0.3);
+    color: #fff;
+}
+@media only screen and (max-width: 990px){
+    .our-team{ margin-bottom: 30px; }
+}
+
+
+@media screen and (max-width: 768px) {
+
+  /* div.slick-track {
+    margin-top: 200px;
+  } */
+
+  #responsive-carousel.slick-initialized {
+    margin-top: 35%;;
+  }
+
+}
