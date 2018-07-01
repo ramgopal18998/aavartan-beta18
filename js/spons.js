@@ -4157,7 +4157,7 @@ jssor_1_slider_init = function() {
 
                 if (containerWidth) {
 
-                    var expectedWidth = Math.min(MAX_WIDTH || containerWidth, containerWidth);
+                    var expectedWidth = Math.min(MAX_WIDTH || containerWidth*2, containerWidth*2);
 
                     jssor_1_slider.$ScaleWidth(expectedWidth);
                 }
