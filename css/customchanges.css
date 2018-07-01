@@ -1,3 +1,40 @@
+#aboutus h3
+ {
+   margin-left: 5px;
+   color: black;
+font-size: 2em;
+
+
+   }
+
+#aboutus p {
+  text-transform: none;
+  letter-spacing: normal;
+  margin: 3px;
+  font-size: 1.5em;
+  line-height: 1em;
+}
+
+
+#initiatives h3
+ {
+   margin-left: 5px;
+   color: white;
+font-size: 2em;
+
+
+   }
+
+#initiatives p {
+  margin: 3px;
+  font-size: 1.5em;
+  line-height: normal;
+}
+
+
+
+
+
 #gallery li {
   transition-duration: 0.2s;
   transition-timing-function: ease-in-out;

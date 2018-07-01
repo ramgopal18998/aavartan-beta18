@@ -218,14 +218,14 @@ h2 {
 	font-weight: 600;
 	margin: 0;
 }
-h3 {
+#sponsors h3 {
 	color: white;
 	font-size: 1.8em;
 	line-height: 2.25em;
 	margin-top: .85em;
 	margin-bottom: .5em;
 }
-p {
+#sponsors p {
 	font-size: 1.5em;
 	line-height: 1.4em;
 	margin: 0 0 1.5em;
