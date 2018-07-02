@@ -1402,7 +1402,7 @@ Digital India Initiative was launched by our Honorable Prime Minister Mr. Narend
 <center>
 <?php include 'form_action.php'; ?>
 
-<div class="bg-contact100" style="background-image: url('images/bg-01.jpg');">
+<div class="bg-contact100" >
     <div class="container-contact100">
       <div class="wrap-contact100">
         <div class="contact100-pic js-tilt" data-tilt>
