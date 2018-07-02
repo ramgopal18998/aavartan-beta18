@@ -188,7 +188,7 @@ background: linear-gradient(to right, #E100FF, #7F00FF); /* W3C, IE 10+/ Edge, F
 }
 
 .wrap-contact100 {
-  width: 80%;
+  width: 90%;
   height:100%;
   background: linear-gradient(to right, pink ,lightyellow);
   border-radius: 10px;
@@ -201,7 +201,7 @@ background: linear-gradient(to right, #E100FF, #7F00FF); /* W3C, IE 10+/ Edge, F
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  padding: 0px 130px 0px 148px;
+  padding: 0px 50px 0px 100px;
 }
 
 /*------------------------------------------------------------------
@@ -209,10 +209,11 @@ background: linear-gradient(to right, #E100FF, #7F00FF); /* W3C, IE 10+/ Edge, F
 .contact100-pic {
   width: 310px;
   padding-top: 55px;
+  padding-left: -30px;
 }
 
 .contact100-pic img {
-  max-width: 100%;
+  max-width: 150%;
 }
 
 

@@ -9,7 +9,6 @@
 <meta name="description" content="Aavartan" />
 <meta name="keywords" content="html template, css, free, one page, gym, fitness, web design" />
 <meta name="author" content="Luka Cvetinovic for Codrops" />
-<!-- Favicons (created with http://realfavicongenerator.net/)-->
 <link rel="apple-touch-icon" sizes="57x57" href="img/favicons/apple-touch-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="img/favicons/apple-touch-icon-60x60.png">
 <link rel="icon" type="image/png" href="img/favicons/favicon-32x32.png" sizes="32x32">
@@ -28,17 +27,7 @@
   <link rel="stylesheet" type="text/css" href="css/contactutil.css">
   <link rel="stylesheet" type="text/css" href="css/contactmain.css">
 <!--===============================================================================================-->
-<!-- dear developers
- i know there are loads of commments
- in this file and a few js files
-i did that for development purpose and plese dont remove them soon
 
-       -  regards SiD -->
-    <!-- custom changes by sid-->
-
-    <!-- <link rel="stylesheet" type="text/css" href="css/cnormalize.css" /> -->
-    <!-- <link rel="stylesheet" type="text/css" href="css/demo.css" /> -->
-    <!-- <link rel="stylesheet" type="text/css" href="css/icons.css" /> -->
     <link rel="stylesheet" type="text/css" href="css/component.css" />
     <!-- <script src="js/modernizr.custom.js"></script> -->
 <!-- Normalize -->
@@ -147,42 +136,7 @@ The assortments can be broadly categorised into six sections. Each domain is spe
 <br></h3>
 <p class="design">In its attempt to provide a national platform for the youth to showcase their talents and skills in aggressive competitions, displaying latest technology and having renowned personalities motivate the youth and providing solutions to various significant problems, AAVARTAN endeavours for one and all to get inspired and look up to.
 </p>
-    <!-- <div class="column"> -->
-      <!-- <span class="icon icon-location"></span> -->
-    <!-- </div> -->
-    <!-- <div class="column text">
-      <h2>Objectively innovate empowered manufactured products</h2>
-      <p>Galaxies a still more glorious dawn awaits shores of the cosmic ocean bits of moving fluff the only home we've ever known finite but unbounded colonies astonishment laws of physics a very small stage in a vast cosmic arena brain is the seed of intelligence realm of the galaxies Apollonius of Perga rogue intelligent beings courage of our questions made in the interiors</p>
-    </div> -->
-    <!-- <div class="row services">
 
-    	<div class="col-md-4">
-    		<div class="service">
-    			<div class="icon-holder">
-    				<img src="img/icons/heart-blue.png" alt="" class="icon">
-    			</div>
-    			<h4 class="heading">Cardio Training</h4>
-    			<p class="description">A elementum ligula lacus ac quam ultrices a scelerisque praesent vel suspendisse scelerisque a aenean hac montes.</p>
-    		</div>
-    	</div>
-    	<div class="col-md-4">
-    		<div class="service">
-    			<div class="icon-holder">
-    				<img src="img/icons/guru-blue.png" alt="" class="icon">
-    			</div>
-    			<h4 class="heading">Yoga Pilates</h4>
-    			<p class="description">A elementum ligula lacus ac quam ultrices a scelerisque praesent vel suspendisse scelerisque a aenean hac montes.</p>
-    		</div>
-    	</div>
-    	<div class="col-md-4">
-    		<div class="service">
-    			<div class="icon-holder">
-    				<img src="img/icons/weight-blue.png" alt="" class="icon">
-    			</div>
-    			<h4 class="heading">Power Training</h4>
-    			<p class="description">A elementum ligula lacus ac quam ultrices a scelerisque praesent vel suspendisse scelerisque a aenean hac montes.</p>
-    		</div>
-    	</div>-->
     </div>
     </div>
     <div class="cut cut-bottom"></div>
@@ -223,32 +177,7 @@ empowered society and knowledge economy.</p>
 Digital India Initiative was launched by our Honorable Prime Minister Mr. Narendra Modi on July 1,2015.The initiative includes plans to connect rural areas with high speed internet networks .From this our team ,The Technocracy has taken a step to help spread Digital literacy and digital delivery of services in the country where the government is trying its best to create Digital infrastructure.
 
 </p>
-<!--	<div class="col-md-4">
-		<div class="service">
-			<div class="icon-holder">
-				<img src="img/icons/heart-blue.png" alt="" class="icon">
-			</div>
-			<h4 class="heading">Cardio Training</h4>
-			<p class="description">A elementum ligula lacus ac quam ultrices a scelerisque praesent vel suspendisse scelerisque a aenean hac montes.</p>
-		</div>
-	</div>
-	<div class="col-md-4">
-		<div class="service">
-			<div class="icon-holder">
-				<img src="img/icons/guru-blue.png" alt="" class="icon">
-			</div>
-			<h4 class="heading">Yoga Pilates</h4>
-			<p class="description">A elementum ligula lacus ac quam ultrices a scelerisque praesent vel suspendisse scelerisque a aenean hac montes.</p>
-		</div>
-	</div>
-	<div class="col-md-4">
-		<div class="service">
-			<div class="icon-holder">
-				<img src="img/icons/weight-blue.png" alt="" class="icon">
-			</div>
-			<h4 class="heading">Power Training</h4>
-			<p class="description">A elementum ligula lacus ac quam ultrices a scelerisque praesent vel suspendisse scelerisque a aenean hac montes.</p>
-		</div>-->
+
 	</div>
 </div>
 </div>
@@ -317,73 +246,11 @@ Digital India Initiative was launched by our Honorable Prime Minister Mr. Narend
 
     </ul>
 </div>
-<!-- <header class="codrops-header-special"> -->
-
       <h1 id="gallh">Gallery</h1>
       <br>
-      <!-- <h2>our amazing moments captures.</h2> -->
 
       <p id="gallp" class="codrops-info"><strong>AAvartan17</strong>    amazing moments</p>
 
-    <!-- </header> -->
-
-<!--
-<div class="container">
-<div class="row title text-center">
-	<h2 class="margin-top">gallery</h2>
-	<h4 class="light muted">We're a dream team!</h4>
-</div> -->
-<!-- <div class="row">
-	<div class="col-md-4">
-		<div class="team text-center">
-			<div class="cover" style="background:url('img/team/team-cover1.jpg'); background-size:cover;">
-				<div class="overlay text-center">
-					<h3 class="white">$69.00</h3>
-					<h5 class="light light-white">1 - 5 sessions / month</h5>
-				</div>
-			</div>
-			<img src="img/team/team3.jpg" alt="Team Image" class="avatar">
-			<div class="title">
-				<h4>Ben Adamson</h4>
-				<h5 class="muted regular">Fitness Instructor</h5>
-			</div>
-			<button data-toggle="modal" data-target="#modal1" class="btn btn-blue-fill">Sign Up Now</button>
-		</div>
-	</div>
-	<div class="col-md-4">
-		<div class="team text-center">
-			<div class="cover" style="background:url('img/team/team-cover2.jpg'); background-size:cover;">
-				<div class="overlay text-center">
-					<h3 class="white">$69.00</h3>
-					<h5 class="light light-white">1 - 5 sessions / month</h5>
-				</div>
-			</div>
-			<img src="img/team/team1.jpg" alt="Team Image" class="avatar">
-			<div class="title">
-				<h4>Eva Williams</h4>
-				<h5 class="muted regular">Personal Trainer</h5>
-			</div>
-			<a href="#" data-toggle="modal" data-target="#modal1" class="btn btn-blue-fill ripple">Sign Up Now</a>
-		</div>
-	</div>
-	<div class="col-md-4">
-		<div class="team text-center">
-			<div class="cover" style="background:url('img/team/team-cover3.jpg'); background-size:cover;">
-				<div class="overlay text-center">
-					<h3 class="white">$69.00</h3>
-					<h5 class="light light-white">1 - 5 sessions / month</h5>
-				</div>
-			</div>
-			<img src="img/team/team2.jpg" alt="Team Image" class="avatar">
-			<div class="title">
-				<h4>John Phillips</h4>
-				<h5 class="muted regular">Personal Trainer</h5>
-			</div>
-			<a href="#" data-toggle="modal" data-target="#modal1" class="btn btn-blue-fill ripple">Sign Up Now</a>
-		</div>
-	</div>
-</div> -->
-<!-- </div> -->
 </section>
 <section id="vigyaan" class="section  gray-bg" style="background-image:url('images/a.jpg');">
   <!-- <section class="col-3 ss-style-doublediagonal"> -->
@@ -396,77 +263,15 @@ Digital India Initiative was launched by our Honorable Prime Minister Mr. Narend
 	<h2 class="margin-top " style="color:white;">Vigyaan</h2>
 	<h4 class="light white">Choose your favorite pricing plan and sign up today!</h4>
 </div>
-<!-- <div class="row no-margin">
-	<div class="col-md-7 no-padding col-md-offset-5 pricings text-center">
-		<div class="pricing">
-			<div class="box-main active" data-img="img/pricing1.jpg">
-				<h4 class="white">Yoga Pilates</h4>
-				<h4 class="white regular light">$850.00 <span class="small-font">/ year</span></h4>
-				<a href="#" data-toggle="modal" data-target="#modal1" class="btn btn-white-fill">Sign Up Now</a>
-				<i class="info-icon icon_question"></i>
-			</div>
-			<div class="box-second active">
-				<ul class="white-list text-left">
-					<li>One Personal Trainer</li>
-					<li>Big gym space for training</li>
-					<li>Free tools &amp; props</li>
-					<li>Free locker</li>
-					<li>Free before / after shower</li>
-				</ul>
-			</div>
-		</div>
-		<div class="pricing">
-			<div class="box-main" data-img="img/pricing2.jpg">
-				<h4 class="white">Cardio Training</h4>
-				<h4 class="white regular light">$100.00 <span class="small-font">/ year</span></h4>
-				<a href="#" data-toggle="modal" data-target="#modal1" class="btn btn-white-fill">Sign Up Now</a>
-				<i class="info-icon icon_question"></i>
-			</div>
-			<div class="box-second">
-				<ul class="white-list text-left">
-					<li>One Personal Trainer</li>
-					<li>Big gym space for training</li>
-					<li>Free tools &amp; props</li>
-					<li>Free locker</li>
-					<li>Free before / after shower</li>
-				</ul>
-			</div>
-		</div>
-	</div>
-</div> -->
+
 </div>
 <!-- </section> -->
 </section>
-<!-- review section -->
-<!-- <section class="section section-padded blue-bg">
-<div class="container">
-<div class="row">
-	<div class="col-md-8 col-md-offset-2">
-		<div class="owl-twitter owl-carousel">
-			<div class="item text-center">
-				<i class="icon fa fa-twitter"></i>
-				<h4 class="white light">To enjoy the glow of good health, you must exercise.</h4>
-				<h4 class="light-white light">#health #training #exercise</h4>
-			</div>
-			<div class="item text-center">
-				<i class="icon fa fa-twitter"></i>
-				<h4 class="white light">To enjoy the glow of good health, you must exercise.</h4>
-				<h4 class="light-white light">#health #training #exercise</h4>
-			</div>
-			<div class="item text-center">
-				<i class="icon fa fa-twitter"></i>
-				<h4 class="white light">To enjoy the glow of good health, you must exercise.</h4>
-				<h4 class="light-white light">#health #training #exercise</h4>
-			</div>
-		</div>
-	</div>
-</div>
-</div>
-</section> -->
+
 <section id="sponsors" class="section " >
  <div  id="sponspad" class="container" style="padding:auto 0;">
 <div class="row title text-center">
-	<h2 class="margin-top">sponsors</h2>
+	<h2 class="margin-top">Last Year sponsors</h2>
 	<!-- <h4 class="light muted">We're a dream team!</h4> -->
 </div>
 <div id="jssor_1" style="position:relative;margin:0 auto;top:0px;left:0px;width:980px;height:400px;overflow:hidden;visibility:hidden;">
@@ -897,210 +702,10 @@ Digital India Initiative was launched by our Honorable Prime Minister Mr. Narend
                     </div>
                   </div>
           </div>
-          <!-- <div data-p="30.00">
-              <img data-u="image" src="img/004.jpg" />
-          </div>
-          <div data-p="30.00">
-              <img data-u="image" src="img/009.jpg" />
-          </div>
-          <div data-p="30.00">
-              <img data-u="image" src="img/010.jpg" />
-          </div>
-          <div data-p="30.00">
-              <img data-u="image" src="img/019.jpg" />
-          </div>
-          <div data-p="30.00">
-              <img data-u="image" src="img/020.jpg" />
-          </div>
-          <div data-p="30.00">
-              <img data-u="image" src="img/021.jpg" />
-          </div>
-          <div data-p="30.00">
-              <img data-u="image" src="images/medium/50.jpg" alt=""  />
-          </div>
-          <div data-p="30.00">
-              <img data-u="image" src="img/024.jpg" />
-          </div> -->
+
       </div>
   </div>
-<!--
 
-<div id="container">
-
-<div class="photobanner">
-<!-- <!-- <img src="images/medium/50.jpg" alt="" /> -->
-<!-- <div  class="cube-container sss first">
-				<div class="photo-cube">
-
-					<div class="back photo-desc">
-					  <h3>Earth from Space</h3>
-					  <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-						<a href="#" class="button">download</a>
-					</div>
-					<img class="right" src="images/medium/50.jpg" alt="">
-
-				</div>
-			</div>
-  <div  class="cube-container sss ">
-      				<div class="photo-cube">
-
-      					<div class="back photo-desc">
-      					  <h3>Earth from Space</h3>
-      					  <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-      						<a href="#" class="button">download</a>
-      					</div>
-      					<img class="right" src="images/medium/50.jpg" alt="">
-
-      				</div>
-      			</div><div  class="cube-container sss ">
-            				<div class="photo-cube">
-
-            					<div class="back photo-desc">
-            					  <h3>Earth from Space</h3>
-            					  <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-            						<a href="#" class="button">download</a>
-            					</div>
-            					<img class="right" src="images/medium/50.jpg" alt="">
-
-            				</div>
-            			</div>
-  <img src="images/medium/50.jpg">
-  <img src="images/medium/50.jpg">
-  <img src="images/medium/50.jpg">
-  <img src="images/medium/50.jpg">
-  <img src="images/medium/50.jpg">
-  <img src="images/medium/50.jpg">
-  <img src="images/medium/50.jpg">
-  <img src="images/medium/50.jpg">
-  <img src="images/medium/50.jpg">
-  <img src="images/medium/50.jpg">
-  <img src="images/medium/50.jpg">
-  <img src="images/medium/50.jpg">
-  <img src="images/medium/50.jpg">
-  <img src="images/medium/50.jpg">
-  <img src="images/medium/50.jpg">
-  <img src="images/medium/50.jpg">
-  <img src="images/medium/50.jpg">
-  <img src="images/medium/50.jpg">
-  <img src="images/medium/50.jpg">
-  <img src="images/medium/50.jpg">
-  <img src="images/medium/50.jpg">
-  <img src="images/medium/50.jpg">
-  <img src="images/medium/50.jpg">
-  <img src="images/medium/50.jpg">
-  <img src="images/medium/50.jpg">
-  <img src="images/medium/50.jpg">
-
-<!-- <img src="image-3.jpg" alt="" />
-<img src="image-4.jpg" alt="" />
-<img src="image-5.jpg" alt="" />
-<img src="image-6.jpg" alt="" /> -->
-<!--
-</div>
-</div>
-<!--<div class="container">
-   <div class="row">
-      <div class="col-sm-12">
-         <div class="carousel slide" data-ride="carousel" id="carousel-example-generic">
-            <div class="carousel-inner" role="listbox">
-               <div class="item active">
-                  <div id="responsive-carousel"> -->
-                     <!-- <div data-first-letter="A"><label class="radio-inline"><input id="inlineCheckbox1" name="inlineRadioOptions" type="radio" value="option1" /><img class="img-responsive" src="http://placehold.it/400x400&amp;text=A" /><span>Name</span>
-                        gruubgu</label>
-                     </div>
-                     <div data-first-letter="A"><label class="radio-inline"><input id="inlineCheckbox2" name="inlineRadioOptions" type="radio" value="option2" /><img class="img-responsive" src="http://placehold.it/400x400&amp;text=A" /><span>Name</span></label></div> -->
-
-          <!-- <div data-first-letter="A"><a href="#"><span>A</span></a>
-            <div class="cube-container">
-  <div class="photo-cube">
-
- <img class="front"src="http://gdurl.com/PdNJ" alt=""> -->
-    <!-- <div class="back photo-desc">
-      <h3>Earth from Space</h3>
-      <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-      <a href="#" class="button">download</a>
-    </div>
-  <img class="left" src="http://gdurl.com/zDJz" alt=""> -->
-    <!-- <img class="right" src="images/medium/46.jpg" alt="">
-
-  </div>
-</div>
-
-          </div> -->
-
-
-
-
-               <!-- </div>
-            </div>
-         </div>
-      </div>
-   </div>
-</div>
-
-</div>
- -->
-
-
-
-
-
-
-
-
-
-
-
-<!-- <div class="row">
-	<div class="col-md-4">
-		<div class="team text-center">
-			<div class="cover" style="background:url('img/team/team-cover1.jpg'); background-size:cover;">
-				<div class="overlay text-center">
-					<h3 class="white">$69.00</h3>
-					<h5 class="light light-white">1 - 5 sessions / month</h5>
-				</div>
-			</div>
-			<img src="img/team/team3.jpg" alt="Team Image" class="avatar">
-			<div class="title">
-				<h4>Ben Adamson</h4>
-				<h5 class="muted regular">Fitness Instructor</h5>
-			</div>
-			<button data-toggle="modal" data-target="#modal1" class="btn btn-blue-fill">Sign Up Now</button>
-		</div>
-	</div>
-	<div class="col-md-4">
-		<div class="team text-center">
-			<div class="cover" style="background:url('img/team/team-cover2.jpg'); background-size:cover;">
-				<div class="overlay text-center">
-					<h3 class="white">$69.00</h3>
-					<h5 class="light light-white">1 - 5 sessions / month</h5>
-				</div>
-			</div>
-			<img src="img/team/team1.jpg" alt="Team Image" class="avatar">
-			<div class="title">
-				<h4>Eva Williams</h4>
-				<h5 class="muted regular">Personal Trainer</h5>
-			</div>
-			<a href="#" data-toggle="modal" data-target="#modal1" class="btn btn-blue-fill ripple">Sign Up Now</a>
-		</div>
-	</div>
-	<div class="col-md-4">
-		<div class="team text-center">
-			<div class="cover" style="background:url('img/team/team-cover3.jpg'); background-size:cover;">
-				<div class="overlay text-center">
-					<h3 class="white">$69.00</h3>
-					<h5 class="light light-white">1 - 5 sessions / month</h5>
-				</div>
-			</div>
-			<img src="img/team/team2.jpg" alt="Team Image" class="avatar">
-			<div class="title">
-				<h4>John Phillips</h4>
-				<h5 class="muted regular">Personal Trainer</h5>
-			</div>
-			<a href="#" data-toggle="modal" data-target="#modal1" class="btn btn-blue-fill ripple">Sign Up Now</a>
-		</div>
-	</div>
-</div> -->
 </div>
 </section>
 <section id="team" class="section gray-bg" style="background-image:url('images/b.jpg')">
@@ -1127,63 +732,6 @@ Digital India Initiative was launched by our Honorable Prime Minister Mr. Narend
                      <div data-first-letter="A"><label class="radio-inline"><input id="inlineCheckbox2" name="inlineRadioOptions" type="radio" value="option2" /><img class="img-responsive" src="http://placehold.it/400x400&amp;text=A" /><span>Name</span></label></div> -->
 
 
-
-          <div data-first-letter="A"><a  ><span>A</span></a>
-                <div class="our-team">
-                <img src="images/medium/50.jpg">
-                <div class="team-content">
-                    <h3 class="title">Williamson</h3>
-                    <span class="post">Web Developer</span>
-                    <ul class="social">
-                        <li><a  ><i class="fa fa-facebook"></i></a></li>
-                        <!-- <li><a  ><i class="fab fa-twitter"></i></a></li> -->
-                        <li><a  ><i class="fa fa-linkedin"></i></a></li>
-                    </ul>
-                </div>
-            </div>
-          </div>
-          <div data-first-letter="A"><a  ><span>A</span></a>
-                <div class="our-team">
-                <img src="images/medium/50.jpg">
-                <div class="team-content">
-                    <h3 class="title">Williamson</h3>
-                    <span class="post">Web Developer</span>
-                    <ul class="social">
-                        <li><a  ><i class="fa fa-facebook"></i></a></li>
-                        <!-- <li><a  ><i class="fab fa-twitter"></i></a></li> -->
-                        <li><a  ><i class="fa fa-linkedin"></i></a></li>
-                    </ul>
-                </div>
-            </div>
-          </div>
-          <div data-first-letter="A"><a  ><span>A</span></a>
-                <div class="our-team">
-                <img src="images/medium/50.jpg">
-                <div class="team-content">
-                    <h3 class="title">Williamson</h3>
-                    <span class="post">Web Developer</span>
-                    <ul class="social">
-                        <li><a  ><i class="fa fa-facebook"></i></a></li>
-                        <!-- <li><a  ><i class="fab fa-twitter"></i></a></li> -->
-                        <li><a  ><i class="fa fa-linkedin"></i></a></li>
-                    </ul>
-                </div>
-            </div>
-          </div>
-          <div data-first-letter="A"><a  ><span>A</span></a>
-                <div class="our-team">
-                <img src="images/medium/50.jpg">
-                <div class="team-content">
-                    <h3 class="title">Williamson</h3>
-                    <span class="post">Web Developer</span>
-                    <ul class="social">
-                        <li><a  ><i class="fa fa-facebook"></i></a></li>
-                        <!-- <li><a  ><i class="fab fa-twitter"></i></a></li> -->
-                        <li><a  ><i class="fa fa-linkedin"></i></a></li>
-                    </ul>
-                </div>
-            </div>
-          </div>
           <div data-first-letter="A"><a  ><span>A</span></a>
                 <div class="our-team">
                 <img src="images/medium/50.jpg">
@@ -1299,38 +847,8 @@ Digital India Initiative was launched by our Honorable Prime Minister Mr. Narend
 
 
 
-                     <!-- <div data-first-letter="B"><a href="#"><img class="img-responsive" src="http://placehold.it/400x400&amp;text=B" /><span>B</span></a></div>
-                     <div data-first-letter="D"><a href="#"><img class="img-responsive" src="http://placehold.it/400x400&amp;text=D" /><span>D</span></a></div>
-                     <div data-first-letter="O"><a href="#"><img class="img-responsive" src="http://placehold.it/400x400&amp;text=O" /><span>O</span></a></div>
-                     <div data-first-letter="P"><a href="#"><img class="img-responsive" src="http://placehold.it/400x400&amp;text=P" /><span>Phv</span></a></div>
-                     <div data-first-letter="X"><a href="#"><img class="img-responsive" src="http://placehold.it/400x400&amp;text=X" /><span>X</span></a></div>
-                     <div data-first-letter="X"><a href="#"><img class="img-responsive" src="http://placehold.it/400x400&amp;text=X" /><span>X</span></a></div>
-                     <div data-first-letter="Y"><a href="#"><img class="img-responsive" src="http://placehold.it/400x400&amp;text=Y" /><span>Y</span></a></div>
-                     <div data-first-letter="Z"><a href="#"><img class="img-responsive" src="http://placehold.it/400x400&amp;text=Z" /><span>Y</span></a></div>
-                  </div> -->
-                  <!-- <div class="row filters">
-                     <div class="col md-12">
-                        <div class="filter">
-                           <ul class="letter-filter list-inline">
-                              <li>Filter by first letter:</li>
-                              <li class="select-filter">
-                                 <select class="form-control inline-block">
-                                    <option value="reset">Select letter to filter</option>
-                                    <option value="A">A</option>
-                                    <option value="D">D</option>
-                                    <option value="O">O</option>
-                                    <option value="P">P</option>
-                                 </select>
-                              </li>
-                              <li><a class="btn btn-xs btn-default reset" href="#">Show all</a></li>
-                              <li><a class="btn btn-xs btn-default" data-filter-by="A" href="#">A</a></li>
-                              <li><a class="btn btn-xs btn-default" data-filter-by="D" href="#">D</a></li>
-                              <li><a class="btn btn-xs btn-default" data-filter-by="O" href="#">O</a></li>
-                              <li><a class="btn btn-xs btn-default" data-filter-by="P" href="#">P</a></li>
-                           </ul>
-                        </div>
-                     </div>
-                  </div> -->
+
+
                </div>
                <!-- <div class="item">Here is some other stuff</div> -->
             </div>
@@ -1338,56 +856,6 @@ Digital India Initiative was launched by our Honorable Prime Minister Mr. Narend
       </div>
    </div>
 </div>
-<!-- <div class="row">
-	<div class="col-md-4">
-		<div class="team text-center">
-			<div class="cover" style="background:url('img/team/team-cover1.jpg'); background-size:cover;">
-				<div class="overlay text-center">
-					<h3 class="white">$69.00</h3>
-					<h5 class="light light-white">1 - 5 sessions / month</h5>
-				</div>
-			</div>
-			<img src="img/team/team3.jpg" alt="Team Image" class="avatar">
-			<div class="title">
-				<h4>Ben Adamson</h4>
-				<h5 class="muted regular">Fitness Instructor</h5>
-			</div>
-			<button data-toggle="modal" data-target="#modal1" class="btn btn-blue-fill">Sign Up Now</button>
-		</div>
-	</div>
-	<div class="col-md-4">
-		<div class="team text-center">
-			<div class="cover" style="background:url('img/team/team-cover2.jpg'); background-size:cover;">
-				<div class="overlay text-center">
-					<h3 class="white">$69.00</h3>
-					<h5 class="light light-white">1 - 5 sessions / month</h5>
-				</div>
-			</div>
-			<img src="img/team/team1.jpg" alt="Team Image" class="avatar">
-			<div class="title">
-				<h4>Eva Williams</h4>
-				<h5 class="muted regular">Personal Trainer</h5>
-			</div>
-			<a href="#" data-toggle="modal" data-target="#modal1" class="btn btn-blue-fill ripple">Sign Up Now</a>
-		</div>
-	</div>
-	<div class="col-md-4">
-		<div class="team text-center">
-			<div class="cover" style="background:url('img/team/team-cover3.jpg'); background-size:cover;">
-				<div class="overlay text-center">
-					<h3 class="white">$69.00</h3>
-					<h5 class="light light-white">1 - 5 sessions / month</h5>
-				</div>
-			</div>
-			<img src="img/team/team2.jpg" alt="Team Image" class="avatar">
-			<div class="title">
-				<h4>John Phillips</h4>
-				<h5 class="muted regular">Personal Trainer</h5>
-			</div>
-			<a href="#" data-toggle="modal" data-target="#modal1" class="btn btn-blue-fill ripple">Sign Up Now</a>
-		</div>
-	</div>
-</div> -->
 </div>
 <!-- </section> -->
 
