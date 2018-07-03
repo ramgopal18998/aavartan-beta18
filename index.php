@@ -91,9 +91,6 @@
     <li><a href="#sponsors">Sponsors</a></li>
     <li><a href="#team">Team</a></li>
     <li><a href="#register">Contact Us</a></li>
-
-
-		<!-- <li><a href="#" data-toggle="modal" data-target="#modal1" class="btn btn-blue">sign up</a></li> -->
 	</ul>
 </div>
 <!-- /.navbar-collapse -->
@@ -1076,7 +1073,7 @@ Digital India Initiative was launched by our Honorable Prime Minister Mr. Narend
 <script src="js/owl.carousel.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/wow.min.js"></script>
-<script src="js/typewriter.js"></script>
+<!-- <script src="js/typewriter.js"></script> -->
 <script src="js/jquery.onepagenav.js"></script>
 <script src="js/main.js"></script>
 <script src="js/demo.js"></script>

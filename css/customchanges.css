@@ -1,6 +1,6 @@
 .popupcont {
   margin-top: 0;
-  
+
   }#aboutus h3
  {
    margin-left: 5px;
@@ -47,7 +47,9 @@ font-size: 2em;
 
 
 
-
+#gallery {
+  background-color: black;
+}
 #gallery li {
   transition-duration: 0.2s;
   transition-timing-function: ease-in-out;
