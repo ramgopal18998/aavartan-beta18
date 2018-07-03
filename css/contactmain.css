@@ -5,26 +5,7 @@
 /*//////////////////////////////////////////////////////////////////
 [ FONT ]*/
 
-@font-face {
-  font-family: Montserrat-Regular;
-  src: url('../fonts/montserrat/Montserrat-Regular.ttf');
-}
-
-@font-face {
-  font-family: Montserrat-Bold;
-  src: url('../fonts/montserrat/Montserrat-Bold.ttf');
-}
-
-@font-face {
-  font-family: Montserrat-ExtraBold;
-  src: url('../fonts/montserrat/Montserrat-ExtraBold.ttf');
-}
-
-@font-face {
-  font-family: Montserrat-Medium;
-  src: url('../fonts/montserrat/Montserrat-Medium.ttf');
-}
-
+/* fonts removed  */
 
 
 /*//////////////////////////////////////////////////////////////////
@@ -59,12 +40,12 @@
 }
 
 #contact {
-	font-family: Montserrat-Regular, sans-serif;
+  font-family: 'Barlow Semi Condensed', Helvetica, Arial, sans-serif;
 }
 
 /*---------------------------------------------*/
 #contact a {
-	font-family: Montserrat-Regular;
+  font-family: 'Barlow Semi Condensed', Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	line-height: 1.7;
 	color: #666666;
@@ -90,7 +71,7 @@
 }
 
 #contact p {
-	font-family: Montserrat-Regular;
+  font-family: 'Barlow Semi Condensed', Helvetica, Arial, sans-serif;
 	font-size: 14px;
 	line-height: 1.7;
 	color: #666666;
@@ -225,7 +206,7 @@ background: linear-gradient(to right, #E100FF, #7F00FF); /* W3C, IE 10+/ Edge, F
 
 .contact100-form-title {
   display: block;
-  font-family: Montserrat-ExtraBold;
+  font-family: 'Barlow Semi Condensed', Helvetica, Arial, sans-serif;
   font-size: 24px;
   color: #333333;
   line-height: 1.2;
@@ -262,7 +243,7 @@ textarea.input100 {
   display: block;
   width: 100%;
   background: #e6e6e6;
-  font-family: Montserrat-Bold;
+  font-family: 'Barlow Semi Condensed', Helvetica, Arial, sans-serif;
   font-size: 15px;
   line-height: 1.5;
   color: #666666;
@@ -352,7 +333,7 @@ textarea.input100 {
   margin-bottom: 10px;
   border-radius: 25px;
   background: #846add;
-  font-family: Montserrat-Bold;
+  font-family: 'Barlow Semi Condensed', Helvetica, Arial, sans-serif;
   font-size: 15px;
   line-height: 1.5;
   color: #fff;
@@ -464,7 +445,7 @@ textarea.input100 {
   right: 8px;
   pointer-events: none;
 
-  font-family: Montserrat-Medium;
+  font-family: 'Barlow Semi Condensed', Helvetica, Arial, sans-serif;
   color: #c80000;
   font-size: 13px;
   line-height: 1.4;
@@ -481,7 +462,7 @@ textarea.input100 {
 
 .alert-validate::after {
   content: "\f06a";
-  font-family: FontAwesome;
+  font-family: 'Barlow Semi Condensed', Helvetica, Arial, sans-serif;
   display: block;
   position: absolute;
   color: #c80000;

@@ -943,13 +943,13 @@ Digital India Initiative was launched by our Honorable Prime Minister Mr. Narend
 		<p>&copy; organised by team technocracy </a> site made by 	<a class="popupb" href="#popup1">Web Team</a>
 </p>
 	</div>
-	<div class="col-sm-4 text-right text-center-mobile">
+	<!-- <div class="col-sm-4 text-right text-center-mobile">
 		<ul class="social-footer">
 			<li><a href="http://www.facebook.com/pages/Codrops/159107397912"><i class="fa fa-facebook"></i></a></li>
 			<li><a href="http://www.twitter.com/codrops"><i class="fa fa-twitter"></i></a></li>
 			<li><a href="https://plus.google.com/101095823814290637419"><i class="fa fa-google-plus"></i></a></li>
 		</ul>
-	</div>
+	</div> -->
 </div>
 </div>
 </footer>
@@ -1078,7 +1078,7 @@ Digital India Initiative was launched by our Honorable Prime Minister Mr. Narend
 <script src="js/main.js"></script>
 <script src="js/demo.js"></script>
 <script src="js/TweenMax.min.js"></script>
-<script src="js/DrawSVGPlugin.min.js"></script>
+<!-- <script src="js/DrawSVGPlugin.min.js"></script> -->
 <script src="js/demo2.js"></script>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
