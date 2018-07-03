@@ -27,6 +27,7 @@
   <link rel="stylesheet" type="text/css" href="css/contactutil.css">
   <link rel="stylesheet" type="text/css" href="css/contactmain.css">
 <!--===============================================================================================-->
+<link rel="stylesheet" type="text/css" href="css/popup.css">
 
     <link rel="stylesheet" type="text/css" href="css/component.css" />
     <!-- <script src="js/modernizr.custom.js"></script> -->
@@ -52,6 +53,8 @@
 
 <link rel="stylesheet" type="text/css" href="css/demo.css" />
 <link rel="stylesheet" type="text/css" href="css/style.css" />
+
+
 <script type="text/javascript" src="js/spons.js"></script>
 
 <!-- <script type="text/javascript" src="js/modernizr.custom.26633.js"></script> -->
@@ -939,8 +942,9 @@ Digital India Initiative was launched by our Honorable Prime Minister Mr. Narend
 <div class="container">
 
 <div class="row bottom-footer text-center-mobile">
-	<div class="col-sm-8">
-		<p>&copy; organised by team technocracy </a> site made by <a href="http://tympanus.net/codrops/">web team</a></p>
+	<div class="">
+		<p>&copy; organised by team technocracy </a> site made by 	<a class="popupb" href="#popup1">Web Team</a>
+</p>
 	</div>
 	<div class="col-sm-4 text-right text-center-mobile">
 		<ul class="social-footer">
@@ -952,6 +956,115 @@ Digital India Initiative was launched by our Honorable Prime Minister Mr. Narend
 </div>
 </div>
 </footer>
+
+<div id="popup1" class="overlay">
+	<div class="popup">
+		<h3>it would have been impossible without ss</h3>
+		<a class="close" href="#">&times;</a>
+		<div class="content">
+      <!-- /////////////////////////////////////////////////////// -->
+      <div class="container popupcont">
+          <div class="row">
+            <div class="col-md-4 col-sm-4 col-xs-6">
+                  <div class="webt">
+                    <img src="images/medium/50.jpg">
+                      <div class="team-content">
+                          <h3 class="title">Williamson</h3>
+                          <span class="post">Web Developer</span>
+                          <p class="description">Lortur adipiscing elit. Praesent mattis urna lectus, non.</p>
+                          <ul class="social">
+                            <li><a  ><i class="fa fa-facebook"></i></a></li>
+                            <!-- <li><a  ><i class="fab fa-twitter"></i></a></li> -->
+                            <li><a  ><i class="fa fa-linkedin"></i></a></li>
+                          </ul>
+                      </div>
+                  </div>
+              </div>
+
+              <div class="col-md-4 col-sm-4 col-xs-6">
+                  <div class="webt">
+                    <img src="images/medium/50.jpg">
+                      <div class="team-content">
+                          <h3 class="title">kristina</h3>
+                          <span class="post">Web Designer</span>
+                          <p class="description">Ldipiscing elit. Praesent mattis urna lectus, non.</p>
+                          <ul class="social">
+                            <li><a  ><i class="fa fa-facebook"></i></a></li>
+                            <!-- <li><a  ><i class="fab fa-twitter"></i></a></li> -->
+                            <li><a  ><i class="fa fa-linkedin"></i></a></li>
+                          </ul>
+                      </div>
+                  </div>
+                </div>
+
+              <div class="col-md-4 col-sm-4 col-xs-6">
+                  <div class="webt">
+                    <img src="images/medium/50.jpg">
+                      <div class="team-content">
+                          <h3 class="title">kristina</h3>
+                          <span class="post">Web Designer</span>
+                          <p class="description">Ldipiscing elit. Praesent mattis urna lectus, non.</p>
+                          <ul class="social">
+                            <li><a  ><i class="fa fa-facebook"></i></a></li>
+                            <!-- <li><a  ><i class="fab fa-twitter"></i></a></li> -->
+                            <li><a  ><i class="fa fa-linkedin"></i></a></li>
+                          </ul>
+                      </div>
+                    </div>
+
+                  </div>
+                  <div class="col-md-4 col-sm-4 col-xs-6">
+                            <div class="webt">
+                              <img src="images/medium/50.jpg">
+                                <div class="team-content">
+                                    <h3 class="title">kristina</h3>
+                                    <span class="post">Web Designer</span>
+                                    <p class="description">Ldipiscing elit. Praesent mattis urna lectus, non.</p>
+                                    <ul class="social">
+                                      <li><a  ><i class="fa fa-facebook"></i></a></li>
+                                      <!-- <li><a  ><i class="fab fa-twitter"></i></a></li> -->
+                                      <li><a  ><i class="fa fa-linkedin"></i></a></li>
+                                    </ul>
+                                </div>
+                            </div>
+                          </div>
+
+                            <div class="col-md-4 col-sm-4 col-xs-6">
+                                      <div class="webt">
+                                        <img src="images/medium/50.jpg">
+                                          <div class="team-content">
+                                              <h3 class="title">kristina</h3>
+                                              <span class="post">Web Designer</span>
+                                              <p class="description">Ldipiscing elit. Praesent mattis urna lectus, non.</p>
+                                              <ul class="social">
+                                                <li><a  ><i class="fa fa-facebook"></i></a></li>
+                                                <!-- <li><a  ><i class="fab fa-twitter"></i></a></li> -->
+                                                <li><a  ><i class="fa fa-linkedin"></i></a></li>
+                                              </ul>
+                                          </div>
+                                      </div>
+                                    </div>
+                                      <div class="col-md-4 col-sm-4 col-xs-6">
+                                                <div class="webt">
+                                                  <img src="images/medium/50.jpg">
+                                                    <div class="team-content">
+                                                        <h3 class="title">kristina</h3>
+                                                        <span class="post">Web Designer</span>
+                                                        <p class="description">Ldipiscing elit. Praesent mattis urna lectus, non.</p>
+                                                        <ul class="social">
+                                                          <li><a  ><i class="fa fa-facebook"></i></a></li>
+                                                          <!-- <li><a  ><i class="fab fa-twitter"></i></a></li> -->
+                                                          <li><a  ><i class="fa fa-linkedin"></i></a></li>
+                                                        </ul>
+                                                    </div>
+                                                </div>
+                                            </div>
+          </div>
+      </div>
+<!-- /////////////////////////////////////////////// -->
+    </div>
+	</div>
+</div>
 <!-- Holder for mobile navigation -->
 <div class="mobile-nav">
 <ul>

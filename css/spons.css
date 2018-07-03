@@ -237,9 +237,8 @@ h2 {
 
 /* ---- Layout Containers ---- */
 
-.container,
-.content {
-	margin: auto;
+#sponsors .container,#sponsors .content {
+	margin: ;
 
 }
 #section .back .content h3 {
