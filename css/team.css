@@ -317,9 +317,10 @@ transform: scale(1.4);
     background: black;
     font-size: 20px;
     /* color: #ff3232; */
-    transition: all 0.4s ease 0s;
+    transition: all 0.4s ease 0.3s;
 }
 .our-team .social li a:hover{
+  transition-delay: 0.3s;
     background: linear-gradient(to bottom,#ff3232, darkred);
     box-shadow: 0 0 0 5px rgba(255,255,255,0.3);
     color: black;

@@ -715,11 +715,128 @@
                                             <div class="our-team">
                                                 <img src="images/medium/50.jpg">
                                                 <div class="team-content">
-                                                    <h3 class="title">Williamson</h3>
-                                                    <span class="post">Web Developer</span>
+                                                    <h3 class="title">Vedant Sahu</h3>
+                                                    <!-- <span class="post">Web Developer</span> -->
                                                     <ul class="social">
-                                                        <li><a><img src="img/face.svg" data-active-url="img/logo-active.png" alt=""></a></li>
-                                                        <li><a><img src="img/link.svg" data-active-url="img/logo-active.png" alt=""></a></li>
+                                                        <li><a href="https://www.facebook.com/vedant.aseven"><img src="img/face.svg"  alt=""></a></li>
+                                                        <li><a href="https://www.linkedin.com/in/vedant-sahu-16march/#experience-section"><img src="img/link.svg" alt=""></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div data-first-letter="A"><a><span>A</span></a>
+                                            <div class="our-team">
+                                                <img src="images/medium/50.jpg">
+                                                <div class="team-content">
+                                                    <h3 class="title">Ankit Tripathi</h3>
+                                                    <!-- <span class="post">Web Developer</span> -->
+                                                    <ul class="social">
+                                                        <li><a href="https://www.facebook.com/ankittripathi.tripathi.969"><img src="img/face.svg"  alt=""></a></li>
+                                                        <li><a href="https://www.linkedin.com/in/ankit-tripathi-036697145"><img src="img/link.svg" alt=""></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div data-first-letter="A"><a><span>A</span></a>
+                                            <div class="our-team">
+                                                <img src="images/medium/50.jpg">
+                                                <div class="team-content">
+                                                    <h3 class="title">Varull Mishra</h3>
+                                                    <!-- <span class="post">Web Developer</span> -->
+                                                    <ul class="social">
+                                                        <li><a><img src="img/face.svg"  alt=""></a></li>
+                                                        <li><a href="https://www.linkedin.com/in/varull-mishra-b03573134/"><img src="img/link.svg" alt=""></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div data-first-letter="A"><a><span>A</span></a>
+                                            <div class="our-team">
+                                                <img src="images/medium/50.jpg">
+                                                <div class="team-content">
+                                                    <h3 class="title">Manish sharma </h3>
+                                                    <!-- <span class="post">Web Developer</span> -->
+                                                    <ul class="social">
+                                                        <li><a href="https://www.facebook.com/profile.php?id=100005640336227"><img src="img/face.svg"  alt=""></a></li>
+                                                        <li><a><img src="img/link.svg" alt=""></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div data-first-letter="A"><a><span>A</span></a>
+                                            <div class="our-team">
+                                                <img src="images/medium/50.jpg">
+                                                <div class="team-content">
+                                                    <h3 class="title">Indrisha Basu</h3>
+                                                    <!-- <span class="post">Web Developer</span> -->
+                                                    <ul class="social">
+                                                        <li><a href="https://www.facebook.com/profile.php?id=100009680343576"><img src="img/face.svg"  alt=""></a></li>
+                                                        <li><a href="https://www.linkedin.com/in/indrisha-basu-5697a7143/"><img src="img/link.svg" alt=""></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div data-first-letter="A"><a><span>A</span></a>
+                                            <div class="our-team">
+                                                <img src="images/medium/50.jpg">
+                                                <div class="team-content">
+                                                    <h3 class="title">Alfurqan jahedi</h3>
+                                                    <!-- <span class="post">Web Developer</span> -->
+                                                    <ul class="social">
+                                                        <li><a><img src="img/face.svg"  alt=""></a></li>
+                                                        <li><a><img src="img/link.svg" alt=""></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div data-first-letter="A"><a><span>A</span></a>
+                                            <div class="our-team">
+                                                <img src="images/medium/50.jpg">
+                                                <div class="team-content">
+                                                    <h3 class="title">Ratnesh Shrivastav</h3>
+                                                    <!-- <span class="post">Web Developer</span> -->
+                                                    <ul class="social">
+                                                        <li><a href="https://www.facebook.com/ratnesh.srivastava.311"><img src="img/face.svg"  alt=""></a></li>
+                                                        <li><a href="https://www.linkedin.com/in/ratnesh-srivastava/"><img src="img/link.svg" alt=""></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div data-first-letter="A"><a><span>A</span></a>
+                                            <div class="our-team">
+                                                <img src="images/medium/50.jpg">
+                                                <div class="team-content">
+                                                    <h3 class="title">Prakash chowdhary</h3>
+                                                    <!-- <span class="post">Web Developer</span> -->
+                                                    <ul class="social">
+                                                      <li><a href="https://www.facebook.com/prakashchaudhary13"><img src="img/face.svg"  alt=""></a></li>
+                                                      <li><a href="https://www.linkedin.com/in/prakash-choudhary-3baaa7140"><img src="img/link.svg" alt=""></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div data-first-letter="A"><a><span>A</span></a>
+                                            <div class="our-team">
+                                                <img src="images/medium/50.jpg">
+                                                <div class="team-content">
+                                                    <h3 class="title">Avinash</h3>
+                                                    <!-- <span class="post">Web Developer</span> -->
+                                                    <ul class="social">
+                                                        <li><a href="https://www.facebook.com/profile.php?id=100021979264512"><img src="img/face.svg"  alt=""></a></li>
+                                                        <li><a><img src="img/link.svg" alt=""></a></li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div data-first-letter="A"><a><span>A</span></a>
+                                            <div class="our-team">
+                                                <img src="images/medium/50.jpg">
+                                                <div class="team-content">
+                                                    <h3 class="title">Venu madhav</h3>
+                                                    <!-- <span class="post">Web Developer</span> -->
+                                                    <ul class="social">
+                                                        <li><a><img src="img/face.svg"  alt=""></a></li>
+                                                        <li><a><img src="img/link.svg" alt=""></a></li>
                                                     </ul>
                                                 </div>
                                             </div>
