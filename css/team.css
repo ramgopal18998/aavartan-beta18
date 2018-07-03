@@ -251,7 +251,7 @@ transform: scale(1.4);
 .our-team img{
     width: 100%;
     height: auto;
-    border-radius: 10px;
+    border-radius: ;
     transition: all 0.3s ease 0s;
 }
 .our-team .team-content{
@@ -300,22 +300,29 @@ transform: scale(1.4);
     display: inline-block;
     margin: 0 5px;
 }
+
+.our-team .social li a img{
+
+  width:  25px;
+
+
+}
 .our-team .social li a{
     display: block;
-    width: 1.1em;
-    height: 1.1em;
+    width: 1.3em;
+    height: 1.3em;
     line-height: 10px;
-    border-radius: 50%;
+    border-radius: 20%;
     /* background: #fff; */
     background: black;
     font-size: 20px;
-    color: #ff3232;
+    /* color: #ff3232; */
     transition: all 0.4s ease 0s;
 }
 .our-team .social li a:hover{
     background: linear-gradient(to bottom,#ff3232, darkred);
     box-shadow: 0 0 0 5px rgba(255,255,255,0.3);
-    color: #fff;
+    color: black;
 }
 @media only screen and (max-width: 990px){
     .our-team{ margin-bottom: 30px; }

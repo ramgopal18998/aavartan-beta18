@@ -162,17 +162,21 @@ iframe {
   align-items: center;
   padding: 15px;
   /* background: rgba(132,106,221,0.9); */
-  background: #7F00FF;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to right, #E100FF, #7F00FF);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to right, #E100FF, #7F00FF); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  background: #00d2ff;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #3a7bd5, #00d2ff);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #3a7bd5, #00d2ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 
 }
 
 .wrap-contact100 {
   width: 90%;
   height:100%;
-  background: linear-gradient(to right, pink ,lightyellow);
-  border-radius: 10px;
+  background: #E0EAFC;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to bottom, #CFDEF3, #E0EAFC);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to bottom, #CFDEF3, #E0EAFC); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+
+border-radius: 10px;
   overflow: hidden;
 
   display: -webkit-box;
