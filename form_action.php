@@ -116,9 +116,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
      */
     
     $server="localhost";
-    $username="aavartan_aav";
-    $password="J-u.w.Dh=]He";
-    $dbname="Aavartan-beta-18";
+    $username="root";
+    $password="";
+    $dbname="contactus";
 
     //Establish Connection
     $conn = mysqli_connect($server, $username, $password, $dbname);
@@ -139,6 +139,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
     {
         $message_server="";
         $success="Thank you for reaching out!!";
+        echo "<script type='text/javascript'>alert('Thank you for reaching out!! Successful Submission :)')</script>";
         //clear post array and all text inputs...
         $_POST = array();
         $name = $email = $phone = $message = "";
@@ -147,6 +148,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST")
     else //Duplicate data found for (em-ph) pair..
     {
         $message_server="Email-Mobile pair already exits!!";
+        echo "<script type='text/javascript'>alert('Unsuccessful Submission :( !! Please try again')</script>";
+        echo "<script type='text/javascript'>alert('Probable Cause: Email or Mobile already used!')</script>";
         $success="";
         $email = $phone="";
     } 
