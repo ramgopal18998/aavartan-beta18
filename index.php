@@ -765,7 +765,7 @@
                                         </div>
                                         <div data-first-letter="A"><a><span>A</span></a>
                                             <div class="our-team">
-                                                <img src="images/team/6.jpg">
+                                                <img src="images/team/5.jpg">
                                                 <div class="team-content">
                                                     <h3 class="title">Indrisha Basu</h3>
                                                     <!-- <span class="post">Web Developer</span> -->
@@ -943,7 +943,7 @@
 
     <div id="popup1" class="overlay">
         <div class="popup">
-            <h3>it would have been impossible without ss</h3>
+            <h3>The Web Team</h3>
             <a class="close" href="#">&times;</a>
             <div class="content">
                 <!-- /////////////////////////////////////////////////////// -->
@@ -951,15 +951,14 @@
                     <div class="row">
                         <div class="col-md-4 col-sm-4 col-xs-6">
                             <div class="webt">
-                                <img src="images/medium/50.jpg">
+                              <img src="images/team/20.jpg">
                                 <div class="team-content">
-                                    <h3 class="title">Williamson</h3>
-                                    <span class="post">Web Developer</span>
-                                    <p class="description">Lortur adipiscing elit. Praesent mattis urna lectus, non.</p>
+                                    <h3 class="title">Ramgoapl Verma</h3>
+                                    <!-- <span class="post">Web Developer</span> -->
                                     <ul class="social">
-                                        <li><a><i class="fa fa-facebook"></i></a></li>
-                                        <!-- <li><a  ><i class="fab fa-twitter"></i></a></li> -->
-                                        <li><a><i class="fa fa-linkedin"></i></a></li>
+                                      <li><a href="https://m.facebook.com/ramgopal.varma.528"><img src="img/face.svg" alt=""></a></li>
+                                        <li><a href=""><img src="img/link.svg" alt=""></a></li>
+                                        <li><a href="http://www.github.com/ramgopal18998"><img src="img/git.svg" alt=""></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -967,82 +966,63 @@
 
                         <div class="col-md-4 col-sm-4 col-xs-6">
                             <div class="webt">
-                                <img src="images/medium/50.jpg">
+                              <img src="images/team/24.jpg">
                                 <div class="team-content">
-                                    <h3 class="title">kristina</h3>
-                                    <span class="post">Web Designer</span>
-                                    <p class="description">Ldipiscing elit. Praesent mattis urna lectus, non.</p>
+                                    <h3 class="title">Adarsh Agrawal</h3>
+                                    <!-- <span class="post">Web Designer</span> -->
                                     <ul class="social">
-                                        <li><a><i class="fa fa-facebook"></i></a></li>
-                                        <!-- <li><a  ><i class="fab fa-twitter"></i></a></li> -->
-                                        <li><a><i class="fa fa-linkedin"></i></a></li>
-                                    </ul>
+                                      <li><a href="https://www.facebook.com/adarsh.shrivastava.16752?ref=br_rs"><img src="img/face.svg" alt=""></a></li>
+                                        <li><a href=""><img src="img/link.svg" alt=""></a></li>
+                                        <li><a href=""><img src="img/git.svg" alt=""></a></li>
+                                      </ul>
                                 </div>
                             </div>
                         </div>
 
                         <div class="col-md-4 col-sm-4 col-xs-6">
                             <div class="webt">
-                                <img src="images/medium/50.jpg">
+                              <img src="images/team/21.jpg">
                                 <div class="team-content">
-                                    <h3 class="title">kristina</h3>
-                                    <span class="post">Web Designer</span>
-                                    <p class="description">Ldipiscing elit. Praesent mattis urna lectus, non.</p>
+                                    <h3 class="title">Akash Gayakwad</h3>
+                                    <!-- <span class="post">Web Designer</span> -->
                                     <ul class="social">
-                                        <li><a><i class="fa fa-facebook"></i></a></li>
-                                        <!-- <li><a  ><i class="fab fa-twitter"></i></a></li> -->
-                                        <li><a><i class="fa fa-linkedin"></i></a></li>
-                                    </ul>
+                                      <li><a href="https://www.facebook.com/akashgayakwad123"><img src="img/face.svg" alt=""></a></li>
+                                        <li><a href="https://www.linkedin.com/in/akash-gayakwad-820466156"><img src="img/link.svg" alt=""></a></li>
+                                        <li><a href="https://github.com/Akashgayakwad"><img src="img/git.svg" alt=""></a></li>
+                                      </ul>
                                 </div>
                             </div>
 
                         </div>
                         <div class="col-md-4 col-sm-4 col-xs-6">
                             <div class="webt">
-                                <img src="images/medium/50.jpg">
+                              <img src="images/team/23.jpg">
                                 <div class="team-content">
-                                    <h3 class="title">kristina</h3>
-                                    <span class="post">Web Designer</span>
-                                    <p class="description">Ldipiscing elit. Praesent mattis urna lectus, non.</p>
+                                    <h3 class="title">Nagendra Jha</h3>
+                                    <!-- <span class="post">Web Designer</span> -->
                                     <ul class="social">
-                                        <li><a><i class="fa fa-facebook"></i></a></li>
-                                        <!-- <li><a  ><i class="fab fa-twitter"></i></a></li> -->
-                                        <li><a><i class="fa fa-linkedin"></i></a></li>
-                                    </ul>
+                                      <li><a href="https://www.facebook.com/NJHA1999"><img src="img/face.svg" alt=""></a></li>
+                                        <li><a href="https://www.linkedin.com/in/njha1999/"><img src="img/link.svg" alt=""></a></li>
+                                        <li><a href="https://github.com/njha1999"><img src="img/git.svg" alt=""></a></li>
+                                      </ul>
                                 </div>
                             </div>
                         </div>
 
-                        <div class="col-md-4 col-sm-4 col-xs-6">
+                        <div class=" last col-md-4 col-sm-4 col-xs-6">
                             <div class="webt">
-                                <img src="images/medium/50.jpg">
+                              <img src="images/team/22.jpg">
                                 <div class="team-content">
-                                    <h3 class="title">kristina</h3>
-                                    <span class="post">Web Designer</span>
-                                    <p class="description">Ldipiscing elit. Praesent mattis urna lectus, non.</p>
+                                    <h3 class="title">Siddharth Shah</h3>
                                     <ul class="social">
-                                        <li><a><i class="fa fa-facebook"></i></a></li>
-                                        <!-- <li><a  ><i class="fab fa-twitter"></i></a></li> -->
-                                        <li><a><i class="fa fa-linkedin"></i></a></li>
-                                    </ul>
+                                      <li><a href="https://www.facebook.com/siddharth.shah.357622"><img src="img/face.svg" alt=""></a></li>
+                                        <li><a href="https://www.linkedin.com/in/siddharth-s-862a05b2/"><img src="img/link.svg" alt=""></a></li>
+                                        <li><a href="https://github.com/siddharthshah3030"><img src="img/git.svg" alt=""></a></li>
+                                      </ul>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-4 col-sm-4 col-xs-6">
-                            <div class="webt">
-                                <img src="images/medium/50.jpg">
-                                <div class="team-content">
-                                    <h3 class="title">kristina</h3>
-                                    <span class="post">Web Designer</span>
-                                    <p class="description">Ldipiscing elit. Praesent mattis urna lectus, non.</p>
-                                    <ul class="social">
-                                        <li><a><i class="fa fa-facebook"></i></a></li>
-                                        <!-- <li><a  ><i class="fab fa-twitter"></i></a></li> -->
-                                        <li><a><i class="fa fa-linkedin"></i></a></li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div>
+
                     </div>
                 </div>
                 <!-- /////////////////////////////////////////////// -->
