@@ -713,7 +713,7 @@
 
                                         <div data-first-letter="A"><a><span>A</span></a>
                                             <div class="our-team">
-                                                <img src="images/medium/50.jpg">
+                                                <img src="images/team/9.jpg">
                                                 <div class="team-content">
                                                     <h3 class="title">Vedant Sahu</h3>
                                                     <!-- <span class="post">Web Developer</span> -->
@@ -726,7 +726,7 @@
                                         </div>
                                         <div data-first-letter="A"><a><span>A</span></a>
                                             <div class="our-team">
-                                                <img src="images/medium/50.jpg">
+                                                <img src="images/team/8.jpg">
                                                 <div class="team-content">
                                                     <h3 class="title">Ankit Tripathi</h3>
                                                     <!-- <span class="post">Web Developer</span> -->
@@ -739,7 +739,7 @@
                                         </div>
                                         <div data-first-letter="A"><a><span>A</span></a>
                                             <div class="our-team">
-                                                <img src="images/medium/50.jpg">
+                                                <img src="images/team/7.jpg">
                                                 <div class="team-content">
                                                     <h3 class="title">Varull Mishra</h3>
                                                     <!-- <span class="post">Web Developer</span> -->
@@ -752,7 +752,7 @@
                                         </div>
                                         <div data-first-letter="A"><a><span>A</span></a>
                                             <div class="our-team">
-                                                <img src="images/medium/50.jpg">
+                                                <img src="images/team/4.jpg">
                                                 <div class="team-content">
                                                     <h3 class="title">Manish sharma </h3>
                                                     <!-- <span class="post">Web Developer</span> -->
@@ -765,7 +765,7 @@
                                         </div>
                                         <div data-first-letter="A"><a><span>A</span></a>
                                             <div class="our-team">
-                                                <img src="images/medium/50.jpg">
+                                                <img src="images/team/6.jpg">
                                                 <div class="team-content">
                                                     <h3 class="title">Indrisha Basu</h3>
                                                     <!-- <span class="post">Web Developer</span> -->
@@ -778,7 +778,7 @@
                                         </div>
                                         <div data-first-letter="A"><a><span>A</span></a>
                                             <div class="our-team">
-                                                <img src="images/medium/50.jpg">
+                                                <img src="images/team/11.jpg">
                                                 <div class="team-content">
                                                     <h3 class="title">Alfurqan jahedi</h3>
                                                     <!-- <span class="post">Web Developer</span> -->
@@ -791,7 +791,7 @@
                                         </div>
                                         <div data-first-letter="A"><a><span>A</span></a>
                                             <div class="our-team">
-                                                <img src="images/medium/50.jpg">
+                                                <img src="images/team/1.jpg">
                                                 <div class="team-content">
                                                     <h3 class="title">Ratnesh Shrivastav</h3>
                                                     <!-- <span class="post">Web Developer</span> -->
@@ -804,7 +804,7 @@
                                         </div>
                                         <div data-first-letter="A"><a><span>A</span></a>
                                             <div class="our-team">
-                                                <img src="images/medium/50.jpg">
+                                                <img src="images/team/3.jpg">
                                                 <div class="team-content">
                                                     <h3 class="title">Prakash chowdhary</h3>
                                                     <!-- <span class="post">Web Developer</span> -->
@@ -817,7 +817,7 @@
                                         </div>
                                         <div data-first-letter="A"><a><span>A</span></a>
                                             <div class="our-team">
-                                                <img src="images/medium/50.jpg">
+                                                <img src="images/team/11.jpg">
                                                 <div class="team-content">
                                                     <h3 class="title">Avinash</h3>
                                                     <!-- <span class="post">Web Developer</span> -->
@@ -830,12 +830,12 @@
                                         </div>
                                         <div data-first-letter="A"><a><span>A</span></a>
                                             <div class="our-team">
-                                                <img src="images/medium/50.jpg">
+                                                <img src="images/team/2.jpg">
                                                 <div class="team-content">
                                                     <h3 class="title">Venu madhav</h3>
                                                     <!-- <span class="post">Web Developer</span> -->
                                                     <ul class="social">
-                                                        <li><a><img src="img/face.svg"  alt=""></a></li>
+                                                        <li><a href="https://www.facebook.com/profile.php?id=100009606431875&ref=br_rs"><img src="img/face.svg"  alt=""></a></li>
                                                         <li><a><img src="img/link.svg" alt=""></a></li>
                                                     </ul>
                                                 </div>
