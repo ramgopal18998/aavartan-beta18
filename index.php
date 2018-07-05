@@ -857,7 +857,7 @@
             <!-- </section> -->
 
     </section>
-    <section id="register" class="section  gray-bg">
+   <section id="register" class="section  gray-bg">
 
         <div class="container" id="contact">
             <center>
@@ -867,10 +867,10 @@
                     <div class="container-contact100">
                         <div class="wrap-contact100">
                             <div class="contact100-pic js-tilt" data-tilt>
-                                <img id="litimage" src="images/contactus.gif" alt="IMG">
+                                <img id="contact100-pic" src="images/img-01.png" alt="IMG">
                             </div>
 
-                            <form class="contact100-form validate-form" action="<?php $_SERVER['PHP_SELF']?>" method="POST">
+                            <form id="reg" class="contact100-form validate-form" action="<?php $_SERVER['PHP_SELF']?>" method="POST">
                                 <span class="contact100-form-title">
             <center>
             CONTACT US
@@ -878,45 +878,48 @@
           </span>
 
                                 <div class="wrap-input100 validate-input" data-validate="Name is required">
-                                    <input class="input100" type="text" name="name" placeholder="Name" id="name" value="<?= $name ?>">
+                                    <input class="input100" type="text" name="name" placeholder="Name" id="name">
                                     <span class="focus-input100"></span>
                                     <span class="symbol-input100">
               <i class="fa fa-user" aria-hidden="true"></i>
             </span>
-                                    <span class="error"><?= $name_error ?></span>
+                                    <span id="nerror" class="error"></span>
                                 </div>
 
                                 <div class="wrap-input100 validate-input" data-validate="Valid email is required: ex@abc.xyz">
-                                    <input class="input100" type="text" name="email" placeholder="Email" id="email" value="<?= $email ?>">
+                                    <input class="input100" type="text" name="email" placeholder="Email" id="email">
                                     <span class="focus-input100"></span>
                                     <span class="symbol-input100">
               <i class="fa fa-envelope" aria-hidden="true"></i>
             </span>
-                                    <span class="error"><?= $email_error ?></span>
+                                    <span id="eerror" class="error"></span>
                                 </div>
 
                                 <div class="wrap-input100 validate-input" data-validate="Valid Phone is required">
-                                    <input class="input100" type="text" name="phone" placeholder="Mobile" id="phone" value="<?= $phone ?>">
+                                    <input class="input100" type="text" name="phone" placeholder="Mobile" id="phone">
                                     <span class="focus-input100"></span>
                                     <span class="symbol-input100">
               <i class="fa fa-phone" aria-hidden="true"></i>
             </span>
-                                    <span class="error"><?= $phone_error ?></span>
+                                    <span id="perror" class="error"></span>
                                 </div>
 
                                 <div class="wrap-input100 validate-input" data-validate="Message is required">
-                                    <textarea class="input100" name="message" placeholder="Message" id="msg" value="<?= $message ?>"></textarea>
+                                    <textarea class="input100" name="message" placeholder="Message" id="message"></textarea>
                                     <span class="focus-input100"></span>
-                                    <span class="error"><?= $message_error ?></span>
+                                    <span id="merror" class="error"></span>
+                                    <span id="mreq" class="request"></span>
                                 </div>
-
+                                <span id="incomp" class="error"></span>
                                 <div class="container-contact100-form-btn">
-                                    <button class="contact100-form-btn" value="Send">
+                                    <button class="contact100-form-btn" value="Send" type="submit">
               Send
             </button>
                                 </div>
-                                <span class="fail"><?= $message_server ?> </span>
-                                <span class="complete"><?= $success ?></span>
+                                <!-- server messages for debug purpose -->
+                                <!-- <span class="fail"><#?= $message_server ?> </span>
+                                <span class="complete"><#?= $success ?></span> -->
+                                <!-- remove after deployment -->
                             </form>
                         </div>
                     </div>
@@ -925,9 +928,6 @@
 
         </div>
     </section>
-
-
-
     <footer>
         <div class="container">
 
@@ -1110,6 +1110,7 @@
 
         });
     </script>
+<script type="text/javascript" src="js/contactumain.js"></script>
 </body>
 
 </html>
