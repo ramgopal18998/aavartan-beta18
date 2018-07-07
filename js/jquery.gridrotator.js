@@ -335,7 +335,7 @@
 
 					$item.css( {
 						width : j < Math.floor( gapWidth ) ? itemWidth + 1 : itemWidth,
-						height : itemWidth
+						height : (itemWidth/3)*2
 					} );
 
 					if( $.inArray( idx, this.options.nochange ) !== -1 ) {
