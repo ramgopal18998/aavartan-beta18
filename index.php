@@ -699,7 +699,7 @@
   </svg> -->
         <div id="teampad" class="container">
             <div class="row title text-center">
-                <h2 class="margin-top">team</h2>
+                <h2 ic="teamtitle" class="margin-top">team</h2>
                 <!-- <h4 class="light muted">We're a dream team!</h4> -->
             </div>
             <div id="teampa" class="container">
@@ -932,7 +932,7 @@
 
             <div class="row bottom-footer text-center-mobile">
                 <div class="">
-                    <p>&copy; organised by team technocracy </a> site made by <a class="popupb" href="#popup1">Web Team</a>
+                    <p>&copy; organised by team technocracy and</a> site made by <a class="popupb" href="#popup1">Web Team</a>
                     </p>
                 </div>
 
@@ -1032,7 +1032,8 @@
     <div class="mobile-nav">
         <ul>
         </ul>
-        <a href="#" class="close-link"><i class="arrow_up"></i></a>
+
+        <a href="#" class="close-link"><img id="uparrow" src="img/up.svg"  alt="^"></a>
     </div>
     <!-- Scripts -->
     <script src="js/jquery-1.11.1.min.js"></script>

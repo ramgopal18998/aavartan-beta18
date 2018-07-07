@@ -213,7 +213,9 @@ h3 {
 	text-transform: uppercase;
 }
 h2 {
-	font-size: 0.6em;
+	font-family: 'Barlow Semi Condensed', Helvetica, Arial, sans-serif;
+
+	font-size: 1em;
 	color: #4a89ca;
 	font-weight: 600;
 	margin: 0;
@@ -329,6 +331,10 @@ padding-left: 0px;
 ==================================== */
 
 @media (min-width: 769px) {
+	h2 {
+		font-size: 0.7em;
+
+	}
 	.cube-container {
 		float: left;
 		margin-left: 16.6%;

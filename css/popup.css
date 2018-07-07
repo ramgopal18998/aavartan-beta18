@@ -3,7 +3,6 @@
     overflow: hidden;
     border-radius: 50%;
     position: relative;
-    /* padding: 2px; */
     margin: 2px;
 }
 .webt img{
@@ -150,6 +149,7 @@ h1 {
   font-size: 1em;
   padding: 10px;
   color: #fff;
+  margin-bottom: 7px;
   border: 2px solid white;
   border-radius: 20px/50px;
   text-decoration: none;
@@ -166,6 +166,7 @@ h1 {
 }
 
 .overlay {
+
   position: fixed;
   top: 0;
   bottom: 0;
@@ -175,6 +176,7 @@ h1 {
   transition: opacity 500ms;
 display: none;
  opacity: 0;
+
 }
 .overlay:target {
 display: block;
@@ -201,7 +203,7 @@ display: block;
   position: absolute;
   top: 0px;
   right: 30px;
-  transition: all 200ms;
+  transition: all 600ms;
   font-size: 40px;
   font-weight: bold;
   text-decoration: none;
