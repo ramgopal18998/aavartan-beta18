@@ -1,3 +1,7 @@
+.slick-list {
+outline: none;
+outline-width: 0px; 
+  }
 .footertext p {
   color: #A0A0A0;
 }
