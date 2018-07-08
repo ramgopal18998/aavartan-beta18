@@ -264,266 +264,266 @@
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/major (1).jpg" alt="">
+                                <img class="front" src="images/sponsors/1.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/major (1).jpg" alt="">
-                                <img class="right" src="images/sponsors/major (1).jpg" alt="">
+                                <img class="left" src="images/sponsors/1.jpg" alt="">
+                                <img class="right" src="images/sponsors/1.jpg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/major (2).jpg" alt="">
+                                <img class="front" src="images/sponsors/2.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/major (2).jpg" alt="">
-                                <img class="right" src="images/sponsors/major (2).jpg" alt="">
+                                <img class="left" src="images/sponsors/2.jpg" alt="">
+                                <img class="right" src="images/sponsors/2.jpg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/major (3).jpg" alt="">
+                                <img class="front" src="images/sponsors/3.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/major (3).jpg" alt="">
-                                <img class="right" src="images/sponsors/major (3).jpg" alt="">
+                                <img class="left" src="images/sponsors/3.jpg" alt="">
+                                <img class="right" src="images/sponsors/3.jpg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/major (4).jpg" alt="">
+                                <img class="front" src="images/sponsors/4.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/major (4).jpg" alt="">
-                                <img class="right" src="images/sponsors/major (4).jpg" alt="">
+                                <img class="left" src="images/sponsors/4.jpg" alt="">
+                                <img class="right" src="images/sponsors/4.jpg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/major (5).jpg" alt="">
+                                <img class="front" src="images/sponsors/5.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/major (5).jpg" alt="">
-                                <img class="right" src="images/sponsors/major (5).jpg" alt="">
+                                <img class="left" src="images/sponsors/5.jpg" alt="">
+                                <img class="right" src="images/sponsors/5.jpg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/major (6).jpg" alt="">
+                                <img class="front" src="images/sponsors/6.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/major (6).jpg" alt="">
-                                <img class="right" src="images/sponsors/major (6).jpg" alt="">
+                                <img class="left" src="images/sponsors/6.jpg" alt="">
+                                <img class="right" src="images/sponsors/6.jpg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/major (7).jpg" alt="">
+                                <img class="front" src="images/sponsors/7.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/major (7).jpg" alt="">
-                                <img class="right" src="images/sponsors/major (7).jpg" alt="">
+                                <img class="left" src="images/sponsors/7.jpg" alt="">
+                                <img class="right" src="images/sponsors/7.jpg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/spons (14).jpg" alt="">
+                                <img class="front" src="images/sponsors/8.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/spons (14).jpg" alt="">
-                                <img class="right" src="images/sponsors/spons (14).jpg" alt="">
+                                <img class="left" src="images/sponsors/8.jpg" alt="">
+                                <img class="right" src="images/sponsors/8.jpg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/spons (1).jpg" alt="">
+                                <img class="front" src="images/sponsors/9.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/spons (1).jpg" alt="">
-                                <img class="right" src="images/sponsors/spons (1).jpg" alt="">
+                                <img class="left" src="images/sponsors/9.jpg" alt="">
+                                <img class="right" src="images/sponsors/9.jpg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/spons (2).jpg" alt="">
+                                <img class="front" src="images/sponsors/10.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/spons (2).jpg" alt="">
-                                <img class="right" src="images/sponsors/spons (2).jpg" alt="">
+                                <img class="left" src="images/sponsors/10.jpg" alt="">
+                                <img class="right" src="images/sponsors/10.jpg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/spons (3).jpg" alt="">
+                                <img class="front" src="images/sponsors/11.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/spons (3).jpg" alt="">
-                                <img class="right" src="images/sponsors/spons (3).jpg" alt="">
+                                <img class="left" src="images/sponsors/11.jpg" alt="">
+                                <img class="right" src="images/sponsors/11.jpg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/spons (13).jpg" alt="">
+                                <img class="front" src="images/sponsors/12.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/spons (13).jpg" alt="">
-                                <img class="right" src="images/sponsors/spons (13).jpg" alt="">
+                                <img class="left" src="images/sponsors/12.jpg" alt="">
+                                <img class="right" src="images/sponsors/12.jpg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/spons (12).jpg" alt="">
+                                <img class="front" src="images/sponsors/13.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/spons (12).jpg" alt="">
-                                <img class="right" src="images/sponsors/spons (12).jpg" alt="">
+                                <img class="left" src="images/sponsors/13.jpg" alt="">
+                                <img class="right" src="images/sponsors/13.jpg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/spons (4).jpg" alt="">
+                                <img class="front" src="images/sponsors/14.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/spons (4).jpg" alt="">
-                                <img class="right" src="images/sponsors/spons (4).jpg" alt="">
+                                <img class="left" src="images/sponsors/14.jpg" alt="">
+                                <img class="right" src="images/sponsors/14.jpg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/spons (5).jpg" alt="">
+                                <img class="front" src="images/sponsors/15.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/spons (5).jpg" alt="">
-                                <img class="right" src="images/sponsors/spons (5).jpg" alt="">
+                                <img class="left" src="images/sponsors/15.jpg" alt="">
+                                <img class="right" src="images/sponsors/15.jpg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/spons (6).jpg" alt="">
+                                <img class="front" src="images/sponsors/16.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/spons (6).jpg" alt="">
-                                <img class="right" src="images/sponsors/spons (6).jpg" alt="">
+                                <img class="left" src="images/sponsors/16.jpg" alt="">
+                                <img class="right" src="images/sponsors/16.jpg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/spons (7).jpg" alt="">
+                                <img class="front" src="images/sponsors/17.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/spons (7).jpg" alt="">
-                                <img class="right" src="images/sponsors/spons (7).jpg" alt="">
+                                <img class="left" src="images/sponsors/17.jpg" alt="">
+                                <img class="right" src="images/sponsors/17.jpg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/spons (8).jpg" alt="">
+                                <img class="front" src="images/sponsors/18.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/spons (8).jpg" alt="">
-                                <img class="right" src="images/sponsors/spons (8).jpg" alt="">
+                                <img class="left" src="images/sponsors/18.jpg" alt="">
+                                <img class="right" src="images/sponsors/18.jpg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/spons (9).jpg" alt="">
+                                <img class="front" src="images/sponsors/19.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/spons (9).jpg" alt="">
-                                <img class="right" src="images/sponsors/spons (9).jpg" alt="">
+                                <img class="left" src="images/sponsors/19.jpg" alt="">
+                                <img class="right" src="images/sponsors/19.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -531,154 +531,154 @@
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/spons (10).jpg" alt="">
+                                <img class="front" src="images/sponsors/20.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/spons (10).jpg" alt="">
-                                <img class="right" src="images/sponsors/spons (10).jpg" alt="">
+                                <img class="left" src="images/sponsors/20.jpg" alt="">
+                                <img class="right" src="images/sponsors/20.jpg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/spons (11).jpg" alt="">
+                                <img class="front" src="images/sponsors/21.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/spons (11).jpg" alt="">
-                                <img class="right" src="images/sponsors/spons (11).jpg" alt="">
+                                <img class="left" src="images/sponsors/21.jpg" alt="">
+                                <img class="right" src="images/sponsors/21.jpg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/spons (15).jpg" alt="">
+                                <img class="front" src="images/sponsors/22.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/spons (15).jpg" alt="">
-                                <img class="right" src="images/sponsors/spons (15).jpg" alt="">
+                                <img class="left" src="images/sponsors/22.jpg" alt="">
+                                <img class="right" src="images/sponsors/22.jpg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/spons (16).jpg" alt="">
+                                <img class="front" src="images/sponsors/23.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/spons (16).jpg" alt="">
-                                <img class="right" src="images/sponsors/spons (16).jpg" alt="">
+                                <img class="left" src="images/sponsors/23.jpg" alt="">
+                                <img class="right" src="images/sponsors/23.jpg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/spons (17).jpg" alt="">
+                                <img class="front" src="images/sponsors/24.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/spons (17).jpg" alt="">
-                                <img class="right" src="images/sponsors/spons (17).jpg" alt="">
+                                <img class="left" src="images/sponsors/24.jpg" alt="">
+                                <img class="right" src="images/sponsors/24.jpg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/spons (18).jpg" alt="">
+                                <img class="front" src="images/sponsors/25.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/spons (18).jpg" alt="">
-                                <img class="right" src="images/sponsors/spons (18).jpg" alt="">
+                                <img class="left" src="images/sponsors/25.jpg" alt="">
+                                <img class="right" src="images/sponsors/25.jpg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/spons (19).jpg" alt="">
+                                <img class="front" src="images/sponsors/26.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/spons (19).jpg" alt="">
-                                <img class="right" src="images/sponsors/spons (19).jpg" alt="">
+                                <img class="left" src="images/sponsors/26.jpg" alt="">
+                                <img class="right" src="images/sponsors/26.jpg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/spons (20).jpg" alt="">
+                                <img class="front" src="images/sponsors/27.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/spons (20).jpg" alt="">
-                                <img class="right" src="images/sponsors/spons (20).jpg" alt="">
+                                <img class="left" src="images/sponsors/27.jpg" alt="">
+                                <img class="right" src="images/sponsors/27.jpg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/spons (21).jpg" alt="">
+                                <img class="front" src="images/sponsors/28.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/spons (21).jpg" alt="">
-                                <img class="right" src="images/sponsors/spons (21).jpg" alt="">
+                                <img class="left" src="images/sponsors/28.jpg" alt="">
+                                <img class="right" src="images/sponsors/28.jpg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/spons (22).jpg" alt="">
+                                <img class="front" src="images/sponsors/29.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/spons (22).jpg" alt="">
-                                <img class="right" src="images/sponsors/spons (22).jpg" alt="">
+                                <img class="left" src="images/sponsors/29.jpg" alt="">
+                                <img class="right" src="images/sponsors/29.jpg" alt="">
                             </div>
                         </div>
                     </div>
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
-                                <img class="front" src="images/sponsors/spons (23).jpg" alt="">
+                                <img class="front" src="images/sponsors/30.jpg" alt="">
                                 <div class="back photo-desc">
                                     <h3>The Milky Way</h3>
                                     <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
                                     <a href="#" class="button">download</a>
                                 </div>
-                                <img class="left" src="images/sponsors/spons (23).jpg" alt="">
-                                <img class="right" src="images/sponsors/spons (23).jpg" alt="">
+                                <img class="left" src="images/sponsors/30.jpg" alt="">
+                                <img class="right" src="images/sponsors/30.jpg" alt="">
                             </div>
                         </div>
                     </div>
@@ -1057,36 +1057,42 @@
         jssor_1_slider_init();
     </script>
     <script type="text/javascript">
-        $(function() {
 
-        $( '#ri-grid' ).gridrotator( {
-          rows : 4,
-          columns : 6,
-          maxStep : 6,
-          interval : 1000,
-          w1024 : {
-            rows : 7,
-            columns : 5
-          },
-          w768 : {
-            rows : 8,
-            columns : 5
-          },
-          w480 : {
-            rows : 8,
-            columns : 3
-          },
-          w320 : {
-            rows : 8,
-            columns : 3
-          },
-          w240 : {
-            rows : 8,
-            columns : 3
-          },
-        } );
+    $(function() {
 
-        });
+    $( '#ri-grid' ).gridrotator( {
+      rows : 4,
+      columns : 6,
+      maxStep : 5,
+      interval : 1500,
+      w1024 : {
+        rows : 7,
+        columns : 5
+      },
+      w768 : {
+        rows : 8,
+        columns : 5
+      },
+      w480 : {
+        rows : 8,
+        columns : 3
+      },
+      w320 : {
+        rows : 8,
+        columns : 3
+      },
+      w240 : {
+        rows : 8,
+        columns : 3
+      },
+    } );
+
+  });
+    setInterval(function(){
+      $(window).trigger('resize');
+
+  }, 8000);
+
     </script>
 <script type="text/javascript" src="js/contactumain.js"></script>
 </body>
