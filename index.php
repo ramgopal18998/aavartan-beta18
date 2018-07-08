@@ -40,7 +40,7 @@
     <!-- Animate.css -->
     <link rel="stylesheet" type="text/css" href="css/animate.css">
     <!-- Font Awesome -->
-    <!-- <link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.1.0/css/font-awesome.min.css"> -->
+    <link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.1.0/css/font-awesome.min.css">
     <!-- Elegant Icons -->
     <!-- <link rel="stylesheet" type="text/css" href="fonts/eleganticons/et-icons.css"> -->
     <!-- Main style -->
@@ -783,7 +783,7 @@
                                             <div class="our-team">
                                                 <img src="images/team/11.jpg">
                                                 <div class="team-content">
-                                                    <h3 class="title">Alfurqan jahedi</h3>
+                                                    <h3 class="title">Alfurquan zahedi</h3>
                                                     <!-- <span class="post">Web Developer</span> -->
                                                     <ul class="social">
                                                         <li><a><img src="img/face.svg"  alt=""></a></li>
@@ -796,7 +796,7 @@
                                             <div class="our-team">
                                                 <img src="images/team/1.jpg">
                                                 <div class="team-content">
-                                                    <h3 class="title">Ratnesh Shrivastav</h3>
+                                                    <h3 class="title">Ratnesh Srivastav</h3>
                                                     <!-- <span class="post">Web Developer</span> -->
                                                     <ul class="social">
                                                         <li><a href="https://www.facebook.com/ratnesh.srivastava.311"><img src="img/face.svg"  alt=""></a></li>
@@ -809,7 +809,7 @@
                                             <div class="our-team">
                                                 <img src="images/team/3.jpg">
                                                 <div class="team-content">
-                                                    <h3 class="title">Prakash chowdhary</h3>
+                                                    <h3 class="title">Prakash choudhary</h3>
                                                     <!-- <span class="post">Web Developer</span> -->
                                                     <ul class="social">
                                                       <li><a href="https://www.facebook.com/prakashchaudhary13"><img src="img/face.svg"  alt=""></a></li>
@@ -935,7 +935,7 @@
         <div class="container">
 
             <div class="row bottom-footer text-center-mobile">
-                <div class="">
+                <div class="footertext">
                     <p>&copy; organised by team technocracy and</a> site made by <a class="popupb" href="#popup1">Web Team</a>
                     </p>
                 </div>
@@ -956,7 +956,7 @@
                             <div class="webt">
                               <img src="images/team/20.jpg">
                                 <div class="team-content">
-                                    <h3 class="title">Ramgoapl Verma</h3>
+                                    <h3 class="title">Ramgopal Varma</h3>
                                     <!-- <span class="post">Web Developer</span> -->
                                     <ul class="social">
                                       <li><a href="https://m.facebook.com/ramgopal.varma.528"><img src="img/face.svg" alt=""></a></li>
@@ -967,16 +967,29 @@
                             </div>
                         </div>
 
+                        <div class="  col-md-4 col-sm-4 col-xs-6">
+                            <div class="webt">
+                              <img src="images/team/22.jpg">
+                                <div class="team-content">
+                                    <h3 class="title">Siddharth Shah</h3>
+                                    <ul class="social">
+                                      <li><a href="https://www.facebook.com/siddharth.shah.357622"><img src="img/face.svg" alt=""></a></li>
+                                        <li><a href="https://www.linkedin.com/in/siddharth-s-862a05b2/"><img src="img/link.svg" alt=""></a></li>
+                                        <li><a href="https://github.com/siddharthshah3030"><img src="img/git.svg" alt=""></a></li>
+                                      </ul>
+                                </div>
+                            </div>
+                        </div>
                         <div class="col-md-4 col-sm-4 col-xs-6">
                             <div class="webt">
-                              <img src="images/team/24.jpg">
+                              <img src="images/team/23.jpg">
                                 <div class="team-content">
-                                    <h3 class="title">Adarsh Agrawal</h3>
+                                    <h3 class="title">Nagendra Jha</h3>
                                     <!-- <span class="post">Web Designer</span> -->
                                     <ul class="social">
-                                      <li><a href="https://www.facebook.com/adarsh.shrivastava.16752?ref=br_rs"><img src="img/face.svg" alt=""></a></li>
-                                        <li><a href=""><img src="img/link.svg" alt=""></a></li>
-                                        <li><a href=""><img src="img/git.svg" alt=""></a></li>
+                                      <li><a href="https://www.facebook.com/NJHA1999"><img src="img/face.svg" alt=""></a></li>
+                                        <li><a href="https://www.linkedin.com/in/njha1999/"><img src="img/link.svg" alt=""></a></li>
+                                        <li><a href="https://github.com/njha1999"><img src="img/git.svg" alt=""></a></li>
                                       </ul>
                                 </div>
                             </div>
@@ -997,34 +1010,22 @@
                             </div>
 
                         </div>
-                        <div class="col-md-4 col-sm-4 col-xs-6">
-                            <div class="webt">
-                              <img src="images/team/23.jpg">
-                                <div class="team-content">
-                                    <h3 class="title">Nagendra Jha</h3>
-                                    <!-- <span class="post">Web Designer</span> -->
-                                    <ul class="social">
-                                      <li><a href="https://www.facebook.com/NJHA1999"><img src="img/face.svg" alt=""></a></li>
-                                        <li><a href="https://www.linkedin.com/in/njha1999/"><img src="img/link.svg" alt=""></a></li>
-                                        <li><a href="https://github.com/njha1999"><img src="img/git.svg" alt=""></a></li>
-                                      </ul>
-                                </div>
+
+                        <div class="last col-md-4 col-sm-4 col-xs-6">
+                          <div class="webt">
+                            <img src="images/team/24.jpg">
+                            <div class="team-content">
+                              <h3 class="title">Adarsh Agrawal</h3>
+                              <!-- <span class="post">Web Designer</span> -->
+                              <ul class="social">
+                                <li><a href="https://www.facebook.com/adarsh.shrivastava.16752?ref=br_rs"><img src="img/face.svg" alt=""></a></li>
+                                <li><a href=""><img src="img/link.svg" alt=""></a></li>
+                                <li><a href=""><img src="img/git.svg" alt=""></a></li>
+                              </ul>
                             </div>
+                          </div>
                         </div>
 
-                        <div class=" last col-md-4 col-sm-4 col-xs-6">
-                            <div class="webt">
-                              <img src="images/team/22.jpg">
-                                <div class="team-content">
-                                    <h3 class="title">Siddharth Shah</h3>
-                                    <ul class="social">
-                                      <li><a href="https://www.facebook.com/siddharth.shah.357622"><img src="img/face.svg" alt=""></a></li>
-                                        <li><a href="https://www.linkedin.com/in/siddharth-s-862a05b2/"><img src="img/link.svg" alt=""></a></li>
-                                        <li><a href="https://github.com/siddharthshah3030"><img src="img/git.svg" alt=""></a></li>
-                                      </ul>
-                                </div>
-                            </div>
-                        </div>
 
                     </div>
                 </div>

@@ -1,4 +1,6 @@
-
+.footertext p {
+  color: #A0A0A0;
+}
 #vigyaan , #team,#initiatives {
 
   background-size: cover;
@@ -80,7 +82,7 @@ body {
   }#aboutus h3
  {
    margin-left: 5px;
-   color: black;
+   color: #4a89ca;
 font-size: 2em;
 
 font-family: 'Barlow Semi Condensed', Helvetica, Arial, sans-serif;
@@ -99,9 +101,7 @@ font-family: 'Barlow Semi Condensed', Helvetica, Arial, sans-serif;
 
 }
 
-#initiatives h2 {
-  color: pink;
-}
+
 
 #initiatives h3
  {
