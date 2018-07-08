@@ -601,7 +601,7 @@
 
 			this.playtimeout = setTimeout( function() {
 
-				var step = self.options.step, max= self.options.maxStep, min = 1;
+				var step = self.options.step, max= self.options.maxStep, min = 2;
 
 				if( max > self.showTotal ) {
 					max = self.showTotal;
