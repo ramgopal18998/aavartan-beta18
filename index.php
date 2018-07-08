@@ -225,6 +225,50 @@
                 <li><a><img src="images/medium/45.jpg"/></a></li>
                 <li><a><img src="images/medium/46.jpg"/></a></li>
                 <li><a><img src="images/medium/47.jpg"/></a></li>
+                <li><a><img src="images/medium/1.jpg"/></a></li>
+                <li><a><img src="images/medium/2.jpg"/></a></li>
+                <li><a><img src="images/medium/3.jpg"/></a></li>
+                <li><a><img src="images/medium/4.jpg"/></a></li>
+                <li><a><img src="images/medium/5.jpg"/></a></li>
+                <li><a><img src="images/medium/6.jpg"/></a></li>
+                <li><a><img src="images/medium/7.jpg"/></a></li>
+                <li><a><img src="images/medium/8.jpg"/></a></li>
+                <li><a><img src="images/medium/9.jpg"/></a></li>
+                <li><a><img src="images/medium/10.jpg"/></a></li>
+                <li><a><img src="images/medium/12.jpg"/></a></li>
+                <li><a><img src="images/medium/13.jpg"/></a></li>
+                <li><a><img src="images/medium/14.jpg"/></a></li>
+                <li><a><img src="images/medium/15.jpg"/></a></li>
+                <li><a><img src="images/medium/16.jpg"/></a></li>
+                <li><a><img src="images/medium/17.jpg"/></a></li>
+                <li><a><img src="images/medium/18.jpg"/></a></li>
+                <li><a><img src="images/medium/19.jpg"/></a></li>
+                <li><a><img src="images/medium/21.jpg"/></a></li>
+                <li><a><img src="images/medium/22.jpg"/></a></li>
+                <li><a><img src="images/medium/23.jpg"/></a></li>
+                <li><a><img src="images/medium/24.jpg"/></a></li>
+                <li><a><img src="images/medium/25.jpg"/></a></li>
+                <li><a><img src="images/medium/26.jpg"/></a></li>
+                <li><a><img src="images/medium/27.jpg"/></a></li>
+                <li><a><img src="images/medium/28.jpg"/></a></li>
+                <li><a><img src="images/medium/29.jpg"/></a></li>
+                <li><a><img src="images/medium/30.jpg"/></a></li>
+                <li><a><img src="images/medium/31.jpg"/></a></li>
+                <li><a><img src="images/medium/32.jpg"/></a></li>
+                <li><a><img src="images/medium/33.jpg"/></a></li>
+                <li><a><img src="images/medium/34.jpg"/></a></li>
+                <li><a><img src="images/medium/35.jpg"/></a></li>
+                <li><a><img src="images/medium/37.jpg"/></a></li>
+                <li><a><img src="images/medium/38.jpg"/></a></li>
+                <li><a><img src="images/medium/39.jpg"/></a></li>
+                <li><a><img src="images/medium/40.jpg"/></a></li>
+                <li><a><img src="images/medium/41.jpg"/></a></li>
+                <li><a><img src="images/medium/42.jpg"/></a></li>
+                <li><a><img src="images/medium/43.jpg"/></a></li>
+                <li><a><img src="images/medium/44.jpg"/></a></li>
+                <li><a><img src="images/medium/45.jpg"/></a></li>
+                <li><a><img src="images/medium/46.jpg"/></a></li>
+                <li><a><img src="images/medium/47.jpg"/></a></li>
 
 
 
@@ -1063,8 +1107,8 @@
     $( '#ri-grid' ).gridrotator( {
       rows : 4,
       columns : 6,
-      maxStep : 5,
-      interval : 1500,
+      maxStep : 4,
+      interval : 1800,
       w1024 : {
         rows : 7,
         columns : 5
@@ -1091,7 +1135,7 @@
     setInterval(function(){
       $(window).trigger('resize');
 
-  }, 8000);
+  }, 15000);
 
     </script>
 <script type="text/javascript" src="js/contactumain.js"></script>

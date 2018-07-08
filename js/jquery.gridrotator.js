@@ -153,7 +153,7 @@ threshold: 100
 		// random
 		animType : 'random',
 		// animation speed
-		animSpeed : 800,
+		animSpeed : 1000,
 		// animation easings
 		animEasingOut : 'linear',
 		animEasingIn: 'linear',
