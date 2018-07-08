@@ -9,21 +9,21 @@
     <meta name="description" content="Aavartan" />
     <meta name="keywords" content="html template, css, free, one page, gym, fitness, web design" />
     <meta name="author" content="Luka Cvetinovic for Codrops" />
-    <link rel="apple-touch-icon" sizes="57x57" href="img/favicons/apple-touch-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="60x60" href="img/favicons/apple-touch-icon-60x60.png">
-    <link rel="icon" type="image/png" href="img/favicons/favicon-32x32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="img/favicons/favicon-16x16.png" sizes="16x16">
-    <link rel="manifest" href="img/favicons/manifest.json">
-    <link rel="shortcut icon" href="img/favicons/favicon.ico">
+    <!-- <link rel="apple-touch-icon" sizes="57x57" href="img/favicons/apple-touch-icon-57x57.png"> -->
+    <!-- <link rel="apple-touch-icon" sizes="60x60" href="img/favicons/apple-touch-icon-60x60.png"> -->
+    <!-- <link rel="icon" type="image/png" href="img/favicons/favicon-32x32.png" sizes="32x32"> -->
+    <!-- <link rel="icon" type="image/png" href="img/favicons/favicon-16x16.png" sizes="16x16"> -->
+    <!-- <link rel="manifest" href="img/favicons/manifest.json"> -->
+    <!-- <link rel="shortcut icon" href="img/favicons/favicon.png"> -->
     <meta name="msapplication-TileColor" content="#00a8ff">
-    <meta name="msapplication-config" content="img/favicons/browserconfig.xml">
+    <!-- <meta name="msapplication-config" content="img/favicons/browserconfig.xml"> -->
     <meta name="theme-color" content="#ffffff">
     <link href="https://fonts.googleapis.com/css?family=Barlow+Semi+Condensed:400,700,800" rel="stylesheet">
     <link rel="stylesheet" type="text/css" href="css/base.css" />
     <link rel="stylesheet" type="text/css" href="css/demo2.css" />
 
+    <link rel="icon" type="image/png" href="images/icons/favicon.png" />
     <!--===============================================conact us njha1999================================================-->
-    <link rel="icon" type="image/png" href="images/icons/favicon.ico" />
     <link rel="stylesheet" type="text/css" href="css/contactutil.css">
     <link rel="stylesheet" type="text/css" href="css/contactumain.css">
     <!--===============================================================================================-->
@@ -56,9 +56,11 @@
 
 
     <script type="text/javascript" src="js/spons.js"></script>
+    <!-- <link rel="shortcut icon" type="image/x-icon" href="favicon.png" /> -->
 
     <!-- <script type="text/javascript" src="js/modernizr.custom.26633.js"></script> -->
     <noscript>
+
 <link rel="stylesheet" type="text/css" href="css/fallback.css" />
 </noscript>
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -79,11 +81,13 @@
 		<span class="icon-bar"></span>
 		<span class="icon-bar"></span>
 	</button>
-                <a class="navbar-brand" href="#"><img src="img/logo.png" data-active-url="img/logo-active.png" alt=""></a>
+  <a id="headerlogo" class="navbar-brand" href="#"><img src="img/logo.png" data-active-url="img/logo-active.png" alt=""></a>
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <ul class="nav navbar-nav navbar-right  main-nav">
+
+                    <ul class="nav navbar-nav navbar-right  main-nav">
+
                     <li><a href="#aboutus">About Us</a></li>
                     <li><a href="#initiatives">Our Initiatives</a></li>
                     <li><a href="#gallery">Gallery</a></li>
@@ -109,7 +113,7 @@
         <div class="content">
 
             <div class="title-wrap">
-                <p class="date" style="color:white;">2019</p>
+                <p class="date" style="color:white;">2018</p>
                 <h2 class="title" style="color:white;">AAVARTAN<br></h2>
                 <h3 class="subtitle" style="color:white;">IMAGINE - IMPROVE - IMPLEMENT</h3>
                 <img class="route" src="img/route.svg" alt="Route" />

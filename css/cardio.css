@@ -182,7 +182,7 @@ nav.navbar .navbar-nav li.active a:not(.btn) {
 nav.navbar-fixed-top {
 	z-index: 9499;
 	top: 0;
-padding-top: 25px;
+padding-top: 0px;
 padding-left: 0;
 padding-right: 0;
 	opacity: 0;
@@ -190,7 +190,21 @@ padding-right: 0;
 	background: white;
 	box-shadow: 0px 4px 3px rgba(0, 0, 0, 0.05);
 }
+nav.navbar-fixed-top li{
+margin-top: 10px;
+margin-bottom: 10px;
 
+}
+.navbar-right {
+	margin-top: 5px;
+/* vertical-align: middle; */
+/* margin: auto; */
+/* padding: auto; */
+
+}
+ /* .navbar-header button{
+height: 5vh;
+} */
 nav.navbar-fixed-top .navbar-nav > li > a:not(.btn) {
 	color: #bbb;
 }
