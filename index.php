@@ -225,50 +225,6 @@
                 <li><a><img src="images/medium/45.jpg"/></a></li>
                 <li><a><img src="images/medium/46.jpg"/></a></li>
                 <li><a><img src="images/medium/47.jpg"/></a></li>
-                <li><a><img src="images/medium/1.jpg"/></a></li>
-                <li><a><img src="images/medium/2.jpg"/></a></li>
-                <li><a><img src="images/medium/3.jpg"/></a></li>
-                <li><a><img src="images/medium/4.jpg"/></a></li>
-                <li><a><img src="images/medium/5.jpg"/></a></li>
-                <li><a><img src="images/medium/6.jpg"/></a></li>
-                <li><a><img src="images/medium/7.jpg"/></a></li>
-                <li><a><img src="images/medium/8.jpg"/></a></li>
-                <li><a><img src="images/medium/9.jpg"/></a></li>
-                <li><a><img src="images/medium/10.jpg"/></a></li>
-                <li><a><img src="images/medium/12.jpg"/></a></li>
-                <li><a><img src="images/medium/13.jpg"/></a></li>
-                <li><a><img src="images/medium/14.jpg"/></a></li>
-                <li><a><img src="images/medium/15.jpg"/></a></li>
-                <li><a><img src="images/medium/16.jpg"/></a></li>
-                <li><a><img src="images/medium/17.jpg"/></a></li>
-                <li><a><img src="images/medium/18.jpg"/></a></li>
-                <li><a><img src="images/medium/19.jpg"/></a></li>
-                <li><a><img src="images/medium/21.jpg"/></a></li>
-                <li><a><img src="images/medium/22.jpg"/></a></li>
-                <li><a><img src="images/medium/23.jpg"/></a></li>
-                <li><a><img src="images/medium/24.jpg"/></a></li>
-                <li><a><img src="images/medium/25.jpg"/></a></li>
-                <li><a><img src="images/medium/26.jpg"/></a></li>
-                <li><a><img src="images/medium/27.jpg"/></a></li>
-                <li><a><img src="images/medium/28.jpg"/></a></li>
-                <li><a><img src="images/medium/29.jpg"/></a></li>
-                <li><a><img src="images/medium/30.jpg"/></a></li>
-                <li><a><img src="images/medium/31.jpg"/></a></li>
-                <li><a><img src="images/medium/32.jpg"/></a></li>
-                <li><a><img src="images/medium/33.jpg"/></a></li>
-                <li><a><img src="images/medium/34.jpg"/></a></li>
-                <li><a><img src="images/medium/35.jpg"/></a></li>
-                <li><a><img src="images/medium/37.jpg"/></a></li>
-                <li><a><img src="images/medium/38.jpg"/></a></li>
-                <li><a><img src="images/medium/39.jpg"/></a></li>
-                <li><a><img src="images/medium/40.jpg"/></a></li>
-                <li><a><img src="images/medium/41.jpg"/></a></li>
-                <li><a><img src="images/medium/42.jpg"/></a></li>
-                <li><a><img src="images/medium/43.jpg"/></a></li>
-                <li><a><img src="images/medium/44.jpg"/></a></li>
-                <li><a><img src="images/medium/45.jpg"/></a></li>
-                <li><a><img src="images/medium/46.jpg"/></a></li>
-                <li><a><img src="images/medium/47.jpg"/></a></li>
 
 
 
@@ -304,57 +260,58 @@
                     <img style="margin-top:-19px;position:relative;top:50%;width:38px;height:38px;" src="img/spin.svg" />
                 </div>
                 <div data-u="slides" style="cursor:default;position:relative;top:0px;left:0px;width:980px;height:400px;overflow:hidden;">
-
                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/1.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>CENTRAL BANK OF INDIA</h3>
+                                    <p>Banking Partner</p>
+                                    <a href="https://www.facebook.com/CentralBankofIndiaMumbai/" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/1.jpg" alt="">
                                 <img class="right" src="images/sponsors/1.jpg" alt="">
                             </div>
                         </div>
                     </div>
-                    <div class="bigs" data-p="30.00">
+
+                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/2.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>BANSURIWALA</h3>
+                                    <p>Restaurent Partner</p>
+                                    <a href="https://www.facebook.com/TheMontet/?ref=br_rs" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/2.jpg" alt="">
                                 <img class="right" src="images/sponsors/2.jpg" alt="">
                             </div>
                         </div>
                     </div>
-                    <div class="bigs" data-p="30.00">
+
+                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/3.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>MM FUN CITY</h3>
+                                    <p>Fun Partner</p>
+                                    <a href="https://www.facebook.com/mmfuncity/" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/3.jpg" alt="">
                                 <img class="right" src="images/sponsors/3.jpg" alt="">
                             </div>
                         </div>
                     </div>
-                    <div class="bigs" data-p="30.00">
+                     <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/4.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>TVF MOTORS</h3>
+                                    <p>Mega Event Sponsor</p>
+                                    <a href="https://www.facebook.com/tvsmotorcompany/?ref=br_rs" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/4.jpg" alt="">
                                 <img class="right" src="images/sponsors/4.jpg" alt="">
@@ -366,9 +323,9 @@
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/5.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>ZAR PAINTS</h3>
+                                    <p>Paint Partner</p>
+                                    <a href="https://www.facebook.com/zarpaints/?ref=br_rs" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/5.jpg" alt="">
                                 <img class="right" src="images/sponsors/5.jpg" alt="">
@@ -380,9 +337,9 @@
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/6.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>XTREME</h3>
+                                    <p>Water Partner</p>
+                                    <a href="http://www.xtreme.co.in/" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/6.jpg" alt="">
                                 <img class="right" src="images/sponsors/6.jpg" alt="">
@@ -394,9 +351,9 @@
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/7.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>ENGINEERS CIRCLE</h3>
+                                    <p>Education Partener</p>
+                                    <a href="https://www.engineercircle.org/" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/7.jpg" alt="">
                                 <img class="right" src="images/sponsors/7.jpg" alt="">
@@ -408,163 +365,163 @@
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/8.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>PATRIKA</h3>
+                                    <p>Print Media Partner</p>
+                                    <a href="https://www.facebook.com/patrikahindinews/" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/8.jpg" alt="">
                                 <img class="right" src="images/sponsors/8.jpg" alt="">
                             </div>
                         </div>
                     </div>
-                    <div class="bigs" data-p="30.00">
+                    </a> <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/9.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>PETA</h3>
+                                    <p>Social Partner</p>
+                                    <a href="https://www.facebook.com/official.peta/" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/9.jpg" alt="">
                                 <img class="right" src="images/sponsors/9.jpg" alt="">
                             </div>
                         </div>
                     </div>
-                    <div class="bigs" data-p="30.00">
+                    </a> <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/10.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>SAAVN</h3>
+                                    <p>Streaming Partner</p>
+                                    <a href="https://www.facebook.com/Saavn/?ref=br_rs" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/10.jpg" alt="">
                                 <img class="right" src="images/sponsors/10.jpg" alt="">
                             </div>
                         </div>
                     </div>
-                    <div class="bigs" data-p="30.00">
+                   <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/11.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>THE SPIRIT FACTORY</h3>
+                                    <p>DineIn Partner</p>
+                                    <a href="https://www.facebook.com/pages/The-Spirit-Factory-Raipur/426417041062657?ref=br_rs" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/11.jpg" alt="">
                                 <img class="right" src="images/sponsors/11.jpg" alt="">
                             </div>
                         </div>
                     </div>
-                    <div class="bigs" data-p="30.00">
+                   <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/12.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>RADIO TADKA</h3>
+                                    <p>Radio Partner</p>
+                                    <a href="https://www.facebook.com/RadioTadka-255386041248162/"" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/12.jpg" alt="">
                                 <img class="right" src="images/sponsors/12.jpg" alt="">
                             </div>
                         </div>
                     </div>
-                    <div class="bigs" data-p="30.00">
+                   <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/13.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>TECHIENEST</h3>
+                                    <p>Workshop Partner</p>
+                                    <a href="https://www.facebook.com/TechieNest/?ref=br_rs" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/13.jpg" alt="">
                                 <img class="right" src="images/sponsors/13.jpg" alt="">
                             </div>
                         </div>
                     </div>
-                    <div class="bigs" data-p="30.00">
+                   <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/14.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>THE SOULED STORE</h3>
+                                    <p>Gifts Sponsor</p>
+                                    <a href="https://www.facebook.com/souledstore/?ref=br_rs" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/14.jpg" alt="">
                                 <img class="right" src="images/sponsors/14.jpg" alt="">
                             </div>
                         </div>
                     </div>
-                    <div class="bigs" data-p="30.00">
+                   <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/15.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>BRAND FACTORY</h3>
+                                    <p>Merchandise Partner</p>
+                                    <a href="https://www.facebook.com/brandfactoryofficial/" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/15.jpg" alt="">
                                 <img class="right" src="images/sponsors/15.jpg" alt="">
                             </div>
                         </div>
                     </div>
-                    <div class="bigs" data-p="30.00">
+                   <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/16.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>CEATS HITEC</h3>
+                                    <p>Communication Partner</p>
+                                    <a href="https://www.indiamart.com/ceats-hitec/" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/16.jpg" alt="">
                                 <img class="right" src="images/sponsors/16.jpg" alt="">
                             </div>
                         </div>
                     </div>
-                    <div class="bigs" data-p="30.00">
+                   <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/17.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>CLIPPER 28</h3>
+                                    <p>Digital Media Partner</p>
+                                    <a href="https://www.facebook.com/Clipper28Info/?ref=br_rs" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/17.jpg" alt="">
                                 <img class="right" src="images/sponsors/17.jpg" alt="">
                             </div>
                         </div>
                     </div>
-                    <div class="bigs" data-p="30.00">
+                   <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/18.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>EYEDEA</h3>
+                                    <p>Outdoor Media Partner</p>
+                                    <a href="https://www.facebook.com/adevents10/" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/18.jpg" alt="">
                                 <img class="right" src="images/sponsors/18.jpg" alt="">
                             </div>
                         </div>
                     </div>
-                    <div class="bigs" data-p="30.00">
+                   <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/19.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>FEST PAV</h3>
+                                    <p>Online Partner</p>
+                                    <a href="https://www.facebook.com/festPav/" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/19.jpg" alt="">
                                 <img class="right" src="images/sponsors/19.jpg" alt="">
@@ -572,140 +529,140 @@
                         </div>
                     </div>
 
-                    <div class="bigs" data-p="30.00">
+                   <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/20.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>FOOD MASTER</h3>
+                                    <p>Refreshment Partner</p>
+                                    <a href="http://foodmaster.in/" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/20.jpg" alt="">
                                 <img class="right" src="images/sponsors/20.jpg" alt="">
                             </div>
                         </div>
                     </div>
-                    <div class="bigs" data-p="30.00">
+                   <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/21.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>GLOBAL REACH</h3>
+                                    <p>Global Education Partner</p>
+                                    <a href="https://www.facebook.com/GlobalReachIndia/?ref=br_rs" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/21.jpg" alt="">
                                 <img class="right" src="images/sponsors/21.jpg" alt="">
                             </div>
                         </div>
                     </div>
-                    <div class="bigs" data-p="30.00">
+                   <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/22.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>IBC 24</h3>
+                                    <p>Media Partner</p>
+                                    <a href="https://www.facebook.com/IBC24/" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/22.jpg" alt="">
                                 <img class="right" src="images/sponsors/22.jpg" alt="">
                             </div>
                         </div>
                     </div>
-                    <div class="bigs" data-p="30.00">
+                   <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/23.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>I-GATE</h3>
+                                    <p>IT Education Partner</p>
+                                    <a href="https://www.facebook.com/igate.bhilai/" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/23.jpg" alt="">
                                 <img class="right" src="images/sponsors/23.jpg" alt="">
                             </div>
                         </div>
                     </div>
-                    <div class="bigs" data-p="30.00">
+                   <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/24.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>KONSOLE</h3>
+                                    <p>Digital Media Partner</p>
+                                    <a href="https://www.facebook.com/KonsoleGroup.Official/" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/24.jpg" alt="">
                                 <img class="right" src="images/sponsors/24.jpg" alt="">
                             </div>
                         </div>
                     </div>
-                    <div class="bigs" data-p="30.00">
+                   <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/25.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>KOQUBE</h3>
+                                    <p>Technology Partner</p>
+                                    <a href="https://www.facebook.com/koqube/" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/25.jpg" alt="">
                                 <img class="right" src="images/sponsors/25.jpg" alt="">
                             </div>
                         </div>
                     </div>
-                    <div class="bigs" data-p="30.00">
+                   <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/26.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>LAKME SALON</h3>
+                                    <p>Style Partner</p>
+                                    <a href="https://www.facebook.com/LAKME-SALON-521427251315541/?ref=br_rs" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/26.jpg" alt="">
                                 <img class="right" src="images/sponsors/26.jpg" alt="">
                             </div>
                         </div>
                     </div>
-                    <div class="bigs" data-p="30.00">
+                   <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/27.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>MEAL JUNCTION</h3>
+                                    <p>Food Delivery Partner</p>
+                                    <a href="https://www.mealjunction.com/" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/27.jpg" alt="">
                                 <img class="right" src="images/sponsors/27.jpg" alt="">
                             </div>
                         </div>
                     </div>
-                    <div class="bigs" data-p="30.00">
+                   <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/28.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>MSG 91</h3>
+                                    <p>SMS Partner</p>
+                                    <a href="https://www.facebook.com/msg91/?ref=br_rs" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/28.jpg" alt="">
                                 <img class="right" src="images/sponsors/28.jpg" alt="">
                             </div>
                         </div>
                     </div>
-                    <div class="bigs" data-p="30.00">
+                   <div class="bigs" data-p="30.00">
                         <div class="cube-container sss first">
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/29.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>OLA</h3>
+                                    <p>Mobility Partner</p>
+                                    <a href="https://www.facebook.com/Olacabs/" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/29.jpg" alt="">
                                 <img class="right" src="images/sponsors/29.jpg" alt="">
@@ -717,9 +674,9 @@
                             <div class="photo-cube">
                                 <img class="front" src="images/sponsors/30.jpg" alt="">
                                 <div class="back photo-desc">
-                                    <h3>The Milky Way</h3>
-                                    <p>Aenean lacinia bibendum nulla sed consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
-                                    <a href="#" class="button">download</a>
+                                    <h3>PAISAWAPAS</h3>
+                                    <p>Online Shopping  Partner</p>
+                                    <a href="https://www.facebook.com/paisawapas/?ref=br_rs" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/30.jpg" alt="">
                                 <img class="right" src="images/sponsors/30.jpg" alt="">
@@ -1107,8 +1064,8 @@
     $( '#ri-grid' ).gridrotator( {
       rows : 4,
       columns : 6,
-      maxStep : 4,
-      interval : 1800,
+      maxStep : 5,
+      interval : 1500,
       w1024 : {
         rows : 7,
         columns : 5
@@ -1135,7 +1092,7 @@
     setInterval(function(){
       $(window).trigger('resize');
 
-  }, 15000);
+  }, 8000);
 
     </script>
 <script type="text/javascript" src="js/contactumain.js"></script>
