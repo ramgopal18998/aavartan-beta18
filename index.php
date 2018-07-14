@@ -63,6 +63,8 @@
 
 <link rel="stylesheet" type="text/css" href="css/fallback.css" />
 </noscript>
+<link rel="stylesheet" type="text/css" href="css/attract.css">
+
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
 </head>
@@ -92,6 +94,7 @@
                     <li><a href="#initiatives">Our Initiatives</a></li>
                     <li><a href="#gallery">Gallery</a></li>
                     <li><a href="#vigyaan">vigyaan</a></li>
+                    <li><a href="#attractions">Attractions</a></li>
                     <li><a href="#sponsors">Sponsors</a></li>
                     <li><a href="#team">Team</a></li>
                     <li><a href="#register">Contact Us</a></li>
@@ -247,7 +250,87 @@
         </div>
         <!-- </section> -->
     </section>
+    <!-- <section id="attractions" class="section gray-bg" > -->
+        <!-- <div class="container"> -->
+            <!-- <div class="row text-center title"> -->
+                <!-- <h2 class="margin-top">Atractions</h2> -->
+    <!--  -->
+            <!-- </div> -->
+        <!-- Codrops top bar -->
 
+
+        <!--[if lte IE 9]>
+        <p style="font-size: 20px; padding: 50px;">Sorry, this only works in modern browsers...</p>
+        <![endif]-->
+        <section id="attractions" class="section cn-container">
+
+          <!-- <div class="cn-slide" id="slide-main">
+            <h2>Explore this</h2>
+            <div class="nava">
+              <a href="#slide-1">Philosophy</a>
+              <a href="#slide-2">Science</a>
+              <a href="#slide-3">Literature</a>
+          </div>
+        </div> -->
+
+          <div class="cn-slide atsee cn-slide-sub" id="slide-1">
+            <h2>Philosophy</h2>
+            <a href="#slide-main" class="cn-back">Back</a>
+            <div class="nava">
+              <a href="#slide-1-1">Epistemology</a>
+              <a href="#slide-1-2">Metaphysics</a>
+              <a href="#slide-1-3">Aesthetics</a>
+              <a href="#slide-1-4">Ethics</a>
+          </div>
+        </div>
+
+          <div class="cn-slide" id="slide-1-1">
+            <h2>Epistemology</h2>
+            <a href="#slide-1" class="cn-back">Back</a>
+            <div class="cn-content">
+              <p>The lysine contingency - it's intended to prevent the spread of the animals is case they ever got off the island. Dr. Wu inserted a gene that makes a single faulty enzyme in protein metabolism. The animals can't manufacture the amino acid lysine. Unless they're continually supplied with lysine by us, they'll slip into a coma and die. </p>
+              <p>Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing. </p>
+            </div>
+            <span class="cn-note">Keep clicked to show image</span>
+          </div>
+
+          <div class="cn-slide" id="slide-1-2">
+            <h2>Metaphysics</h2>
+            <a href="#slide-1" class="cn-back">Back</a>
+            <div class="cn-content">
+              <p>You see? It's curious. Ted did figure it out - time travel. And when we get back, we gonna tell everyone. How it's possible, how it's done, what the dangers are. But then why fifty years in the future when the spacecraft encounters a black hole does the computer call it an 'unknown entry event'? Why don't they know? If they don't know, that means we never told anyone. And if we never told anyone it means we never made it back. Hence we die down here. Just as a matter of deductive logic. </p>
+              <p>Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing. </p>
+            </div>
+            <span class="cn-note">Keep clicked to show image</span>
+          </div>
+
+          <div class="cn-slide" id="slide-1-3">
+            <h2>Aesthetics</h2>
+            <a href="#slide-1" class="cn-back">Back</a>
+            <div class="cn-content">
+              <p>You see? It's curious. Ted did figure it out - time travel. And when we get back, we gonna tell everyone. How it's possible, how it's done, what the dangers are. But then why fifty years in the future when the spacecraft encounters a black hole does the computer call it an 'unknown entry event'? Why don't they know? If they don't know, that means we never told anyone. And if we never told anyone it means we never made it back. Hence we die down here. Just as a matter of deductive logic. </p>
+              <p>Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing. </p>
+            </div>
+            <span class="cn-note">Keep clicked to show image</span>
+          </div>
+
+          <div class="cn-slide" id="slide-1-4">
+            <h2>Ethics</h2>
+            <a href="#slide-1" class="cn-back">Back</a>
+            <div class="cn-content">
+              <p>You see? It's curious. Ted did figure it out - time travel. And when we get back, we gonna tell everyone. How it's possible, how it's done, what the dangers are. But then why fifty years in the future when the spacecraft encounters a black hole does the computer call it an 'unknown entry event'? Why don't they know? If they don't know, that means we never told anyone. And if we never told anyone it means we never made it back. Hence we die down here. Just as a matter of deductive logic. </p>
+              <p>Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing. </p>
+            </div>
+            <span class="cn-note">Keep clicked to show image</span>
+          </div>
+
+
+
+        </div>
+        </div>
+        </div>
+
+    </section>
     <section id="sponsors" class="section ">
         <div id="sponspad" class="container" style="padding:auto 0;">
             <div class="row title text-center">
@@ -423,7 +506,7 @@
                                 <div class="back photo-desc">
                                     <h3>RADIO TADKA</h3>
                                     <p>Radio Partner</p>
-                                    <a href="https://www.facebook.com/RadioTadka-255386041248162/"" class="button">Reach Us</a>
+                                    <a href="https://www.facebook.com/RadioTadka-255386041248162/" class="button">Reach Us</a>
                                 </div>
                                 <img class="left" src="images/sponsors/12.jpg" alt="">
                                 <img class="right" src="images/sponsors/12.jpg" alt="">
@@ -689,6 +772,7 @@
 
         </div>
     </section>
+
     <section id="team" class="section gray-bg" style="background-image:url('images/b.jpg')">
         <!-- <section class="col-3 ss-style-doublediagonal"> -->
 
