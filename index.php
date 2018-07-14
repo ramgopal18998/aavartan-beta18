@@ -273,15 +273,15 @@
           </div>
         </div> -->
 
-          <div class="cn-slide atsee cn-slide-sub" id="slide-1">
+          <div id="attaslide" class="cn-slide atsee cn-slide-sub" id="slide-1">
             <h2>ATTRACTIONS</h2>
             <!-- <a href="#slide-main" class="cn-back">Back</a> -->
             <div class="nava">
-              <a href="#slide-1-1">Air Show</a>
-              <a href="#slide-1-2">Adventure Zone</a>
-              <a href="#slide-1-3">Sand Art</a>
-              <a href="#slide-1-4">Laser Show</a>
-                <a href="#slide-1-5">Light Art</a>
+              <a class="attaa"  href="#slide-1-1">Air Show</a>
+              <a class="attaa" href="#slide-1-2">Adventure Zone</a>
+              <a class="attaa" href="#slide-1-3">Sand Art</a>
+              <a class="attaa" href="#slide-1-4">Laser Show</a>
+                <a class="attaa" href="#slide-1-5">Light Art</a>
           </div>
         </div>
 
@@ -1152,6 +1152,8 @@ The Light Art is drawing on a big luminescent area by ray of light possible to c
     <script type="text/javascript" src="js/slick.js"></script>
     <script type="text/javascript" src="js/jquery.gridrotator.js"></script>
     <script src="js/team.js"></script>
+    <script src="js/attraction.js"></script>
+
     <!-- <link rel="stylesheet" type="text/css" href="css/team.css"> -->
     <script type="text/javascript">
         jssor_1_slider_init();
@@ -1163,7 +1165,7 @@ The Light Art is drawing on a big luminescent area by ray of light possible to c
     $( '#ri-grid' ).gridrotator( {
       rows : 4,
       columns : 6,
-      maxStep : 5,
+      maxStep : 2,
       interval : 1500,
       w1024 : {
         rows : 7,
@@ -1191,7 +1193,7 @@ The Light Art is drawing on a big luminescent area by ray of light possible to c
     setInterval(function(){
       $(window).trigger('resize');
 
-  }, 8000);
+  }, 20000);
 
     </script>
 <script type="text/javascript" src="js/contactumain.js"></script>
