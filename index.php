@@ -274,52 +274,67 @@
         </div> -->
 
           <div class="cn-slide atsee cn-slide-sub" id="slide-1">
-            <h2>Philosophy</h2>
-            <a href="#slide-main" class="cn-back">Back</a>
+            <h2>ATTRACTIONS</h2>
+            <!-- <a href="#slide-main" class="cn-back">Back</a> -->
             <div class="nava">
-              <a href="#slide-1-1">Epistemology</a>
-              <a href="#slide-1-2">Metaphysics</a>
-              <a href="#slide-1-3">Aesthetics</a>
-              <a href="#slide-1-4">Ethics</a>
+              <a href="#slide-1-1">Air Show</a>
+              <a href="#slide-1-2">Adventure Zone</a>
+              <a href="#slide-1-3">Sand Art</a>
+              <a href="#slide-1-4">Laser Show</a>
+                <a href="#slide-1-5">Light Art</a>
           </div>
         </div>
 
           <div class="cn-slide" id="slide-1-1">
-            <h2>Epistemology</h2>
+            <h2>Air Show</h2>
             <a href="#slide-1" class="cn-back">Back</a>
             <div class="cn-content">
-              <p>The lysine contingency - it's intended to prevent the spread of the animals is case they ever got off the island. Dr. Wu inserted a gene that makes a single faulty enzyme in protein metabolism. The animals can't manufacture the amino acid lysine. Unless they're continually supplied with lysine by us, they'll slip into a coma and die. </p>
-              <p>Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing. </p>
+              <p>A high voltage array of the latest heavy metal takes centre stage at AIRSHOW in AAVARTAN’17. The event also features the best collection of aerobatic daredevils ever to be gathered together. Their high flying antics and precision manoeuvres promise to leave the crowd spellbound. AIRSHOW 2017 will be the most dynamic pageant of its kind ever staged in AAVARTAN. </p>
             </div>
             <span class="cn-note">Keep clicked to show image</span>
           </div>
 
           <div class="cn-slide" id="slide-1-2">
-            <h2>Metaphysics</h2>
+            <h2>Adventure Zone</h2>
             <a href="#slide-1" class="cn-back">Back</a>
             <div class="cn-content">
-              <p>You see? It's curious. Ted did figure it out - time travel. And when we get back, we gonna tell everyone. How it's possible, how it's done, what the dangers are. But then why fifty years in the future when the spacecraft encounters a black hole does the computer call it an 'unknown entry event'? Why don't they know? If they don't know, that means we never told anyone. And if we never told anyone it means we never made it back. Hence we die down here. Just as a matter of deductive logic. </p>
-              <p>Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing. </p>
+              <p>Adventure zone will comprise of:
+1. Bungee Trampoline
+2. Trampoline
+3. Land Zorbing ball
+4. Climbing wall
+5. Darts
+6. Archery set
+7. Air gun set
+and lots of fun and adventure !!!
+So gear up for an exciting journey...</p>
             </div>
             <span class="cn-note">Keep clicked to show image</span>
           </div>
 
           <div class="cn-slide" id="slide-1-3">
-            <h2>Aesthetics</h2>
+            <h2>Sand Art</h2>
             <a href="#slide-1" class="cn-back">Back</a>
             <div class="cn-content">
-              <p>You see? It's curious. Ted did figure it out - time travel. And when we get back, we gonna tell everyone. How it's possible, how it's done, what the dangers are. But then why fifty years in the future when the spacecraft encounters a black hole does the computer call it an 'unknown entry event'? Why don't they know? If they don't know, that means we never told anyone. And if we never told anyone it means we never made it back. Hence we die down here. Just as a matter of deductive logic. </p>
-              <p>Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing. </p>
+              <p>The Sand Gallery this AAVARTAN would be setup by one of the most talented artist of India - Mr. Vivek Patil. He is the finalist of India's Got Talent Season 5.Sand Art is actually drawing in sand by hands. All this is happening on a specially designed table, which has under lighted glass top. </p>
             </div>
             <span class="cn-note">Keep clicked to show image</span>
           </div>
 
           <div class="cn-slide" id="slide-1-4">
-            <h2>Ethics</h2>
+            <h2>Laser Show</h2>
             <a href="#slide-1" class="cn-back">Back</a>
             <div class="cn-content">
-              <p>You see? It's curious. Ted did figure it out - time travel. And when we get back, we gonna tell everyone. How it's possible, how it's done, what the dangers are. But then why fifty years in the future when the spacecraft encounters a black hole does the computer call it an 'unknown entry event'? Why don't they know? If they don't know, that means we never told anyone. And if we never told anyone it means we never made it back. Hence we die down here. Just as a matter of deductive logic. </p>
-              <p>Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows. Some pilots get picked and become television programs. Some don't, become nothing. She starred in one of the ones that became nothing. </p>
+              <p>Get ready to witness a Laser Show that will be performed by Laser ShowIndia, India's First & No.1 3D Laser Show company. Laser show will feature dazzling colourful laser animations, cartoons and beam effects all choreographed to a musical soundtrack and theme. </p>
+            </div>
+            <span class="cn-note">Keep clicked to show image</span>
+          </div>
+          <div class="cn-slide" id="slide-1-5">
+            <h2>Light Art</h2>
+            <a href="#slide-1" class="cn-back">Back</a>
+            <div class="cn-content">
+              <p>India's first ever Radium-LED painter, Mr. Vivek Patil, shot to fame with his success on the India's Got Talent Season 5.
+The Light Art is drawing on a big luminescent area by ray of light possible to create various images and interactive stories.</p>
             </div>
             <span class="cn-note">Keep clicked to show image</span>
           </div>
