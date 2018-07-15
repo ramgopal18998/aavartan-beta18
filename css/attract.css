@@ -11,7 +11,9 @@
 	height: auto;
 }
 .attaa {
-	height: 30%:
+	height: 30%;
+	margin: auto;
+
 }
 .cn-container h2{
 	font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
@@ -85,7 +87,7 @@
 	text-shadow: 0px 0px 10px rgba(255,255,255,0.9);
 	color: rgba(255,255,255,0.1);
 	line-height: 66px;
-	margin: 0 0 10px 0;
+	/* margin: 0 0 10px 0; */
 	outline: none;
 	box-shadow: 1px 1px 3px rgba(0,0,0,0.1);
 	background: #fff url(../images/1.jpg) no-repeat center center;
@@ -226,7 +228,7 @@
 	}
 	.cn-slide .nava a{
 		font-size: 15px;
-		height: 10%;
+		height: 40%;
 		justify-content: center;
 	}
 	.cn-slide-sub .nava a{
@@ -239,6 +241,9 @@
 	}
 }
 @media screen and (max-width: 750px){
+	.cn-slide-sub .nava a{
+		width: 80%;
+	}
 	.cn-container h2{
 		line-height: 95px;
 		font-size: 5vw;

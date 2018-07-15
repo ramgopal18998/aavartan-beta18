@@ -1,6 +1,6 @@
 .slick-list {
 outline: none;
-outline-width: 0px; 
+outline-width: 0px;
   }
 .footertext p {
   color: #A0A0A0;
@@ -127,6 +127,68 @@ font-size: 2em;
 }
 
 
+/* #attractions h3 */
+ /* {
+   margin-left: 5px;
+   color: #FFCC33;
+   font-family: 'Barlow Semi Condensed', Helvetica, Arial, sans-serif;
+
+font-size: 2em;
+
+
+   } */
+#vigcon {
+  width: 90%;
+  height: 100%;
+}
+#vigcon p {
+
+  /* margin: 3px; */
+  font-family: 'Barlow Semi Condensed', Helvetica, Arial, sans-serif;
+  font-size: 2vw;
+  line-height: 40px;
+  color: white;
+  width: 100%;
+  /* padding: auto; */
+  /* margin-top: 40px; */
+font-weight: bolder;
+}
+br {
+  height: 60px;
+}
+#vigcon h2 {
+
+  /* margin: 3px; */
+  font-family: 'Barlow Semi Condensed', Helvetica, Arial, sans-serif;
+  font-size: 5vw;
+  /* line-height: 40px; */
+  /* color: white; */
+  /* width: 100%; */
+  padding: auto;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
+
+@media screen and (max-width: 750px){
+  #vigcon p {
+
+    /* margin: 3px; */
+    font-family: 'Barlow Semi Condensed', Helvetica, Arial, sans-serif;
+    font-size: 2em;
+    line-height: 25px;
+    /* color: white; */
+    /* width: 100%; */
+    padding: auto;
+    margin-top: 10px;
+  }
+  #vigcon h2 {
+font-size: 100%;
+}
+
+
+
+
+}
 
 
 #gallery {

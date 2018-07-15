@@ -241,13 +241,19 @@
     </section>
     <section id="vigyaan" class="section  gray-bg" style="background-image:url('images/a.jpg');">
 
-        <div class="container">
+        <div id="vigcon" class="container">
             <div class="row title text-center">
-                <h2 class="margin-top " style="color:white;">Vigyaan</h2>
+                <h2 class="" style="color:white;">Vigyaan</h2>
             </div>
             <div class="row ">
 
-                <p class="design">Vigyaan promises to nurture the scientific temperament of the students beyond their natural limitations. This scientific rendevous promises to leave a spine-tingling effect on the participants. The participants have to design a model to solve a Contemporary problem in the society. It tests the scientific and technical abilities of an engineer. In a nutshell VIGYAAN is the scientific sensational; integration of aavartan.</p>
+                <p class="design">Vigyaan promises to nurture the scientific temperament of the students beyond their natural limitations. </p>
+                <p>This scientific rendevous promises to leave a spine-tingling effect on the participants.</p>
+                 <p> The participants have to design a model to solve a Contemporary problem in the society. </p>
+                  <p> It tests the scientific and technical abilities of an engineer. </p>
+                  <p> In a nutshell VIGYAAN is the scientific sensational;</p>
+                   <p>  integration of aavartan.</p>
+
 
 
             </div>
@@ -268,15 +274,6 @@
         <p style="font-size: 20px; padding: 50px;">Sorry, this only works in modern browsers...</p>
         <![endif]-->
         <section id="attractions" class="section cn-container">
-
-          <!-- <div class="cn-slide" id="slide-main">
-            <h2>Explore this</h2>
-            <div class="nava">
-              <a href="#slide-1">Philosophy</a>
-              <a href="#slide-2">Science</a>
-              <a href="#slide-3">Literature</a>
-          </div>
-        </div> -->
 
           <div id="attaslide" class="cn-slide atsee cn-slide-sub" id="slide-1">
             <div class="row title text-center">
