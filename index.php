@@ -244,7 +244,12 @@
         <div class="container">
             <div class="row title text-center">
                 <h2 class="margin-top " style="color:white;">Vigyaan</h2>
-                <h4 class="light white">Choose your favorite pricing plan and sign up today!</h4>
+            </div>
+            <div class="row ">
+
+                <p class="design">Vigyaan promises to nurture the scientific temperament of the students beyond their natural limitations. This scientific rendevous promises to leave a spine-tingling effect on the participants. The participants have to design a model to solve a Contemporary problem in the society. It tests the scientific and technical abilities of an engineer. In a nutshell VIGYAAN is the scientific sensational; integration of aavartan.</p>
+
+
             </div>
 
         </div>
@@ -274,8 +279,9 @@
         </div> -->
 
           <div id="attaslide" class="cn-slide atsee cn-slide-sub" id="slide-1">
-            <h2>ATTRACTIONS</h2>
-            <!-- <a href="#slide-main" class="cn-back">Back</a> -->
+            <div class="row title text-center">
+                <h2 class="" >Attractions</h2>
+            </div>            <!-- <a href="#slide-main" class="cn-back">Back</a> -->
             <div class="nava">
               <a class="attaa"  href="#slide-1-1">Air Show</a>
               <a class="attaa" href="#slide-1-2">Adventure Zone</a>

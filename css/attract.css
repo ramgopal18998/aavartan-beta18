@@ -1,24 +1,30 @@
 .cn-container{
-	width: 80%;
-	min-width: 300px;
-	max-width: 1000px;
-	margin: 10px auto 0 auto;
+	width: 100%;
+	/* min-width: 300px; */
+	/* max-width: 1000px; */
+	margin: 10px  0 ;
 	text-align: left;
 	position: relative;
-	height: 97vh;
+	/* height: 97vh; */
+}
+#attaslide .title{
+	height: auto;
+}
+.attaa {
+	height: 30%:
 }
 .cn-container h2{
 	font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
-	color: #000;
 	position: absolute;
 	z-index: 1000;
 	text-shadow: 0 0 1px rgba(255,255,255,0.8), 1px 1px 1px rgba(0,0,0,0.2);
-	font-size: 2em;
 	line-height: 80px;
 	top: 0px;
-	right: 200px;
+	left: 10%;
+	margin: 0 auto;
+	justify-content: center;
 	white-space: nowrap;
-	opacity: 0.nava
+	opacity: 0;
 	-webkit-transition: all 0.3s linear 0.4s;
 	-moz-transition: all 0.3s linear 0.4s;
 	-o-transition: all 0.3s linear 0.4s;
@@ -29,18 +35,21 @@
 	right: 0px;
 	opacity: 1;
 }
-
+#attractions>div>h2 {
+	font-size: 1.5em;
+}
 .cn-container .atsee h2{
-	right: 0px;
+	/* right: 0px; */
 	opacity: 1;
 }
 .cn-slide{
 	text-align: center;
 	position: absolute;
 	left: -100%;
-	padding-top: 80px;
-	margin: 0 5%;
-	width: 90%;
+	padding-top: 20px;
+	margin: 0 0%;
+	margin-top: 0%;
+	width: 85%;
 	height: 90vh;
 	opacity: 0;
 	-webkit-transition: left 0.4s linear, opacity 0.4s linear;
@@ -48,6 +57,12 @@
 	-o-transition: left 0.4s linear, opacity 0.4s linear;
 	-ms-transition: left 0.4s linear, opacity 0.4s linear;
 	transition: left 0.4s linear, opacity 0.4s linear;
+}
+.nava {
+	margin-top: 10%;
+}
+#attaslide {
+	width: 100%;
 }
 .cn-slide:target{
 	left: 0px;
@@ -65,7 +80,8 @@
 	border: 8px solid #fff;
 	padding: 2%;
 	font-size: 66px;
-	letter-spacing: 7px;
+	font-weight: bolder;
+	letter-spacing: 3px;
 	text-shadow: 0px 0px 10px rgba(255,255,255,0.9);
 	color: rgba(255,255,255,0.1);
 	line-height: 66px;
@@ -80,6 +96,9 @@
 	-o-transition: all 0.3s ease-in-out;
 	-ms-transition: all 0.3s ease-in-out;
 	transition: all 0.3s ease-in-out;
+	background-size: cover;
+	height: 30%;
+
 }
 .cn-slide .nava a:hover{
 	box-shadow: 1px 3px 7px rgba(0,0,0,0.25);
@@ -87,9 +106,11 @@
 	color: rgba(255,255,255,0.9);
 }
 .cn-slide-sub .nava a{
-	width: 45%;
+	width: 30%;
+	/* height: 100%; */
 	display: inline-block;
-	font-size: 40px;
+	font-size: 20px;
+	height: 30%;
 }
 .cn-slide-sub .nava a:nth-child(odd){
 	margin-right: 5px;
@@ -117,7 +138,7 @@
 	background-image: url(../images/4.jpg);
 }
 .cn-slide .nava a[href="#slide-1-5"],
-#slide-1-4 .cn-content {
+#slide-1-5 .cn-content {
 	background-image: url(../images/5.jpg);
 }
 
@@ -128,7 +149,7 @@
 	padding: 20px 20px 5px;
 	box-shadow: 1px 1px 3px rgba(0,0,0,0.1);
 	border: 8px solid #fff;
-	margin-top: 5px;
+	margin-top: 45px;
 	cursor: pointer;
 }
 .cn-content:active p{
@@ -195,23 +216,31 @@
 
 @media screen and (max-width: 1060px){
 	.cn-slide-sub .nava a{
-		font-size: 28px;
+		font-size: 20px;
 	}
 }
 @media screen and (max-width: 900px){
 	.cn-container h2{
-		font-size: 2em;
 		line-height: 95px;
+		/* font-size: 2em; */
 	}
 	.cn-slide .nava a{
-		font-size: 38px;
+		font-size: 15px;
+		height: 10%;
+		justify-content: center;
 	}
 	.cn-slide-sub .nava a{
-		width: auto;
-		font-size: 36px;
+		width: 88%;
+		font-size: 20px;
 		display: block;
 	}
 	.cn-slide-sub .nava a:nth-child(odd){
 		margin-right: 0px;
+	}
+}
+@media screen and (max-width: 750px){
+	.cn-container h2{
+		line-height: 95px;
+		font-size: 5vw;
 	}
 }
