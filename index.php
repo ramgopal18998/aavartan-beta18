@@ -280,17 +280,17 @@
                 <h2 class="" >Attractions</h2>
             </div>            <!-- <a href="#slide-main" class="cn-back">Back</a> -->
             <div class="nava">
-              <a class="attaa"  href="#slide-1-1">Air Show</a>
-              <a class="attaa" href="#slide-1-2">Adventure Zone</a>
-              <a class="attaa" href="#slide-1-3">Sand Art</a>
-              <a class="attaa" href="#slide-1-4">Laser Show</a>
-                <a class="attaa" href="#slide-1-5">Light Art</a>
+              <a id="attaslidep1" class="attaa" >Air Show</a>
+              <a id="attaslidep2" class="attaa" >Adventure Zone</a>
+              <a id="attaslidep3" class="attaa" >Sand Art</a>
+              <a id="attaslidep4" class="attaa" >Laser Show</a>
+                <a id="attaslidep5" class="attaa" >Light Art</a>
           </div>
         </div>
 
           <div class="cn-slide" id="slide-1-1">
             <h2>Air Show</h2>
-            <a href="#slide-1" class="cn-back">Back</a>
+            <a  class="cn-back">Back</a>
             <div class="cn-content">
               <p>A high voltage array of the latest heavy metal takes centre stage at AIRSHOW in AAVARTAN’17. The event also features the best collection of aerobatic daredevils ever to be gathered together. Their high flying antics and precision manoeuvres promise to leave the crowd spellbound. AIRSHOW 2017 will be the most dynamic pageant of its kind ever staged in AAVARTAN. </p>
             </div>
@@ -299,7 +299,7 @@
 
           <div class="cn-slide" id="slide-1-2">
             <h2>Adventure Zone</h2>
-            <a href="#slide-1" class="cn-back">Back</a>
+            <a class="cn-back">Back</a>
             <div class="cn-content">
               <p>Adventure zone will comprise of:
 1. Bungee Trampoline
@@ -317,16 +317,16 @@ So gear up for an exciting journey...</p>
 
           <div class="cn-slide" id="slide-1-3">
             <h2>Sand Art</h2>
-            <a href="#slide-1" class="cn-back">Back</a>
+            <a  class="cn-back">Back</a>
             <div class="cn-content">
               <p>The Sand Gallery this AAVARTAN would be setup by one of the most talented artist of India - Mr. Vivek Patil. He is the finalist of India's Got Talent Season 5.Sand Art is actually drawing in sand by hands. All this is happening on a specially designed table, which has under lighted glass top. </p>
             </div>
             <span class="cn-note">Keep clicked to show image</span>
           </div>
 
-          <div class="cn-slide" id="slide-1-4">
+          <div class="cn-slide " id="slide-1-4">
             <h2>Laser Show</h2>
-            <a href="#slide-1" class="cn-back">Back</a>
+            <a  class="cn-back">Back</a>
             <div class="cn-content">
               <p>Get ready to witness a Laser Show that will be performed by Laser ShowIndia, India's First & No.1 3D Laser Show company. Laser show will feature dazzling colourful laser animations, cartoons and beam effects all choreographed to a musical soundtrack and theme. </p>
             </div>
@@ -334,7 +334,7 @@ So gear up for an exciting journey...</p>
           </div>
           <div class="cn-slide" id="slide-1-5">
             <h2>Light Art</h2>
-            <a href="#slide-1" class="cn-back">Back</a>
+            <a  class="cn-back">Back</a>
             <div class="cn-content">
               <p>India's first ever Radium-LED painter, Mr. Vivek Patil, shot to fame with his success on the India's Got Talent Season 5.
 The Light Art is drawing on a big luminescent area by ray of light possible to create various images and interactive stories.</p>
