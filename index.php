@@ -94,8 +94,8 @@
                     <li><a href="#initiatives">Our Initiatives</a></li>
                     <li><a href="#gallery">Gallery</a></li>
                     <li><a href="#vigyaan">vigyaan</a></li>
-                    <li><a href="#attractions">Attractions</a></li>
                     <li><a href="#sponsors">Sponsors</a></li>
+                    <li><a href="#attractions">Attractions</a></li>
                     <li><a href="#team">Team</a></li>
                     <li><a href="#register">Contact Us</a></li>
                 </ul>
@@ -261,94 +261,7 @@
         </div>
         <!-- </section> -->
     </section>
-    <!-- <section id="attractions" class="section gray-bg" > -->
-        <!-- <div class="container"> -->
-            <!-- <div class="row text-center title"> -->
-                <!-- <h2 class="margin-top">Atractions</h2> -->
-    <!--  -->
-            <!-- </div> -->
-        <!-- Codrops top bar -->
 
-
-        <!--[if lte IE 9]>
-        <p style="font-size: 20px; padding: 50px;">Sorry, this only works in modern browsers...</p>
-        <![endif]-->
-        <section id="attractions" class="section cn-container">
-
-          <div id="attaslide" class="cn-slide atsee cn-slide-sub" id="slide-1">
-            <div class="row title text-center">
-                <h2 class="" >Attractions</h2>
-            </div>            <!-- <a href="#slide-main" class="cn-back">Back</a> -->
-            <div class="nava">
-              <a id="attaslidep1" class="attaa" >Air Show</a>
-              <a id="attaslidep2" class="attaa" >Adventure Zone</a>
-              <a id="attaslidep3" class="attaa" >Sand Art</a>
-              <a id="attaslidep4" class="attaa" >Laser Show</a>
-                <a id="attaslidep5" class="attaa" >Light Art</a>
-          </div>
-        </div>
-
-          <div class="cn-slide" id="slide-1-1">
-            <h2>Air Show</h2>
-            <a  class="cn-back">Back</a>
-            <div class="cn-content">
-              <p>A high voltage array of the latest heavy metal takes centre stage at AIRSHOW in AAVARTAN’17.<br> The event also features the best collection of aerobatic daredevils ever to be gathered together.<br> Their high flying antics and precision manoeuvres promise to leave the crowd spellbound. <br>AIRSHOW 2017 will be the most dynamic pageant of its kind ever staged in AAVARTAN. </p>
-            </div>
-            <span class="cn-note">Keep clicked to show image</span>
-          </div>
-
-          <div class="cn-slide" id="slide-1-2">
-            <h2>Adventure Zone</h2>
-            <a class="cn-back">Back</a>
-            <div class="cn-content">
-              <p>Adventure zone will comprise of:<br>
-1. Bungee Trampoline<br>
-2. Trampoline<br>
-3. Land Zorbing ball<br>
-4. Climbing wall
-<br>5. Darts<br>
-6. Archery set<br>
-7. Air gun set<br>
-and lots of fun and adventure !!!<br>
-So gear up for an exciting journey...</p>
-            </div>
-            <span class="cn-note">Keep clicked to show image</span>
-          </div>
-
-          <div class="cn-slide" id="slide-1-3">
-            <h2>Sand Art</h2>
-            <a  class="cn-back">Back</a>
-            <div class="cn-content">
-              <p>The Sand Gallery this AAVARTAN would be setup by one of the most talented artist of India - Mr. Vivek Patil.<br> He is the finalist of India's Got Talent Season 5.Sand Art is actually drawing in sand by hands. <br>All this is happening on a specially designed table, which has under lighted glass top. </p>
-            </div>
-            <span class="cn-note">Keep clicked to show image</span>
-          </div>
-
-          <div class="cn-slide " id="slide-1-4">
-            <h2>Laser Show</h2>
-            <a  class="cn-back">Back</a>
-            <div class="cn-content">
-              <p>Get ready to witness a Laser Show that will be performed by Laser ShowIndia,<br> India's First & No.1 3D Laser Show company. <br>Laser show will feature dazzling colourful laser animations, <br>cartoons and beam effects all choreographed to a musical soundtrack and theme. </p>
-            </div>
-            <span class="cn-note">Keep clicked to show image</span>
-          </div>
-          <div class="cn-slide" id="slide-1-5">
-            <h2>Light Art</h2>
-            <a  class="cn-back">Back</a>
-            <div class="cn-content">
-              <p>India's first ever Radium-LED painter, Mr. Vivek Patil,<br> shot to fame with his success on the India's Got Talent Season 5.<br>
-The Light Art is drawing on a big luminescent area by ray of light possible to create various images and interactive stories.</p>
-            </div>
-            <span class="cn-note">Keep clicked to show image</span>
-          </div>
-
-
-
-        </div>
-        </div>
-        </div>
-
-    </section>
     <section id="sponsors" class="section ">
         <div id="sponspad" class="container" style="padding:auto 0;">
             <div class="row title text-center">
@@ -790,8 +703,96 @@ The Light Art is drawing on a big luminescent area by ray of light possible to c
 
         </div>
     </section>
+    <!-- <section id="attractions" class="section gray-bg" > -->
+        <!-- <div class="container"> -->
+            <!-- <div class="row text-center title"> -->
+                <!-- <h2 class="margin-top">Atractions</h2> -->
+    <!--  -->
+            <!-- </div> -->
+        <!-- Codrops top bar -->
 
-    <section id="team" class="section gray-bg" style="background-image:url('images/b.jpg')">
+
+        <!--[if lte IE 9]>
+        <p style="font-size: 20px; padding: 50px;">Sorry, this only works in modern browsers...</p>
+        <![endif]-->
+        <section id="attractions" class="section cn-container">
+
+          <div id="attaslide" class="cn-slide atsee cn-slide-sub" id="slide-1">
+            <div class="row title text-center">
+                <h2 class="" >Attractions</h2>
+            </div>            <!-- <a href="#slide-main" class="cn-back">Back</a> -->
+            <div class="nava">
+              <a id="attaslidep1" class="attaa" >Air Show</a>
+              <a id="attaslidep2" class="attaa" >Adventure Zone</a>
+              <a id="attaslidep3" class="attaa" >Sand Art</a>
+              <a id="attaslidep4" class="attaa" >Laser Show</a>
+                <a id="attaslidep5" class="attaa" >Light Art</a>
+          </div>
+        </div>
+
+          <div class="cn-slide" id="slide-1-1">
+            <h2>Air Show</h2>
+            <a  class="cn-back">Back</a>
+            <div class="cn-content">
+              <p>A high voltage array of the latest heavy metal takes centre stage at AIRSHOW in AAVARTAN’17.<br> The event also features the best collection of aerobatic daredevils ever to be gathered together.<br> Their high flying antics and precision manoeuvres promise to leave the crowd spellbound. <br>AIRSHOW 2017 will be the most dynamic pageant of its kind ever staged in AAVARTAN. </p>
+            </div>
+            <span class="cn-note">Keep clicked to show image</span>
+          </div>
+
+          <div class="cn-slide" id="slide-1-2">
+            <h2>Adventure Zone</h2>
+            <a class="cn-back">Back</a>
+            <div class="cn-content">
+              <p>Adventure zone will comprise of:<br>
+  1. Bungee Trampoline<br>
+  2. Trampoline<br>
+  3. Land Zorbing ball<br>
+  4. Climbing wall
+  <br>5. Darts<br>
+  6. Archery set<br>
+  7. Air gun set<br>
+  and lots of fun and adventure !!!<br>
+  So gear up for an exciting journey...</p>
+            </div>
+            <span class="cn-note">Keep clicked to show image</span>
+          </div>
+
+          <div class="cn-slide" id="slide-1-3">
+            <h2>Sand Art</h2>
+            <a  class="cn-back">Back</a>
+            <div class="cn-content">
+              <p>The Sand Gallery this AAVARTAN would be setup by one of the most talented artist of India - Mr. Vivek Patil.<br> He is the finalist of India's Got Talent Season 5.Sand Art is actually drawing in sand by hands. <br>All this is happening on a specially designed table, which has under lighted glass top. </p>
+            </div>
+            <span class="cn-note">Keep clicked to show image</span>
+          </div>
+
+          <div class="cn-slide " id="slide-1-4">
+            <h2>Laser Show</h2>
+            <a  class="cn-back">Back</a>
+            <div class="cn-content">
+              <p>Get ready to witness a Laser Show that will be performed by Laser ShowIndia,<br> India's First & No.1 3D Laser Show company. <br>Laser show will feature dazzling colourful laser animations, <br>cartoons and beam effects all choreographed to a musical soundtrack and theme. </p>
+            </div>
+            <span class="cn-note">Keep clicked to show image</span>
+          </div>
+          <div class="cn-slide" id="slide-1-5">
+            <h2>Light Art</h2>
+            <a  class="cn-back">Back</a>
+            <div class="cn-content">
+              <p>India's first ever Radium-LED painter, Mr. Vivek Patil,<br> shot to fame with his success on the India's Got Talent Season 5.<br>
+  The Light Art is drawing on a big luminescent area by ray of light possible to create various images and interactive stories.</p>
+            </div>
+            <span class="cn-note">Keep clicked to show image</span>
+          </div>
+
+
+
+        </div>
+        </div>
+        </div>
+
+    </section>
+    <section id="team" class="section gray-bg" >
+      <!-- <section id="team" class="section gray-bg" style="background-image:url('images/b.jpg')"> -->
         <!-- <section class="col-3 ss-style-doublediagonal"> -->
 
         <!-- <svg id="curveDownColor" xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100" viewBox="0 0 100 100" preserveAspectRatio="none">

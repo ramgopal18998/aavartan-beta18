@@ -110,9 +110,9 @@ font-family: 'Barlow Semi Condensed', Helvetica, Arial, sans-serif;
 #initiatives h3
  {
    margin-left: 5px;
-   color: #FFCC33;
+   color: white;
    font-family: 'Barlow Semi Condensed', Helvetica, Arial, sans-serif;
-
+font-weight: bold;
 font-size: 2em;
 
 

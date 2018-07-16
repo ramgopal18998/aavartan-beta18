@@ -1,3 +1,9 @@
+#attractions {
+	background: #000000;  /* fallback for old browsers */
+	background: -webkit-linear-gradient(to right, #212121, #000000);  /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(to right, #212121, #000000); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
 #attractions a {
 	cursor: pointer;
 }
@@ -67,7 +73,7 @@
 	transition: left 0.4s linear, opacity 0.4s linear;
 }
 .nava {
-	margin-top: 10%;
+	margin-top: 7%;
 }
 #attaslide {
 	width: 100%;
@@ -85,7 +91,7 @@
 	text-align: left;
 	display: block;
 	font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
-	border: 4px solid #fff;
+	border: 2px solid #fff;
 	padding: 2%;
 	font-size: 66px;
 	font-weight: bolder;
@@ -230,8 +236,10 @@
 	.cn-slide-sub .nava a{
 		font-size: 20px;
 	}
+
 }
 @media screen and (max-width: 900px){
+
 	.cn-container h2{
 		line-height: 95px;
 		/* font-size: 2em; */
@@ -251,11 +259,14 @@
 	}
 }
 @media screen and (max-width: 750px){
+	.nava {
+		margin-top: 11%;
+	}
 	#attractions>div>h2 {
 		font-size: 2em;
 	}
 	.cn-slide-sub .nava a{
-		padding: 1%;
+		padding: 2%;
 		width: 80%;
 	}
 	.cn-container h2{
