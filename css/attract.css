@@ -27,11 +27,12 @@
 	text-shadow: 0 0 1px rgba(255,255,255,0.8), 1px 1px 1px rgba(0,0,0,0.2);
 	line-height: 80px;
 	top: 0px;
-	left: 10%;
+	left: 30%;
 	margin: 0 auto;
 	justify-content: center;
 	white-space: nowrap;
 	opacity: 0;
+
 	-webkit-transition: all 0.3s linear 0.4s;
 	-moz-transition: all 0.3s linear 0.4s;
 	-o-transition: all 0.3s linear 0.4s;
