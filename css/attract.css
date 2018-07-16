@@ -17,6 +17,7 @@
 .attaa {
 	height: 30%;
 	margin: auto;
+	border-radius: 10px;
 
 }
 .cn-container h2{
@@ -83,7 +84,7 @@
 	text-align: left;
 	display: block;
 	font-family: 'BebasNeueRegular', 'Arial Narrow', Arial, sans-serif;
-	border: 8px solid #fff;
+	border: 4px solid #fff;
 	padding: 2%;
 	font-size: 66px;
 	font-weight: bolder;
@@ -116,7 +117,7 @@
 	/* height: 100%; */
 	display: inline-block;
 	font-size: 20px;
-	height: 30%;
+	height: 38vh;
 }
 .cn-slide-sub .nava a:nth-child(odd){
 	margin-right: 5px;
@@ -156,12 +157,16 @@
 	box-shadow: 1px 1px 3px rgba(0,0,0,0.1);
 	border: 8px solid #fff;
 	margin-top: 45px;
+	height: 70vh;
+	width: 95vw;
 	cursor: pointer;
 }
 .cn-content:active p{
 	opacity: 0;
 }
 .cn-content p{
+	opacity: 0.7;
+	border-radius: 15px;
 	line-height: 24px;
 	text-shadow: 1px 1px 1px rgba(255,255,255,0.9);
 	color: rgba(103,59,77,0.9);
@@ -232,7 +237,7 @@
 	}
 	.cn-slide .nava a{
 		font-size: 15px;
-		height: 40%;
+		height: 100%;
 		justify-content: center;
 	}
 	.cn-slide-sub .nava a{
@@ -245,7 +250,11 @@
 	}
 }
 @media screen and (max-width: 750px){
+	#attractions>div>h2 {
+		font-size: 2em;
+	}
 	.cn-slide-sub .nava a{
+		padding: 1%;
 		width: 80%;
 	}
 	.cn-container h2{

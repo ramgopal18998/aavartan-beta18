@@ -292,7 +292,7 @@
             <h2>Air Show</h2>
             <a  class="cn-back">Back</a>
             <div class="cn-content">
-              <p>A high voltage array of the latest heavy metal takes centre stage at AIRSHOW in AAVARTAN’17. The event also features the best collection of aerobatic daredevils ever to be gathered together. Their high flying antics and precision manoeuvres promise to leave the crowd spellbound. AIRSHOW 2017 will be the most dynamic pageant of its kind ever staged in AAVARTAN. </p>
+              <p>A high voltage array of the latest heavy metal takes centre stage at AIRSHOW in AAVARTAN’17.<br> The event also features the best collection of aerobatic daredevils ever to be gathered together.<br> Their high flying antics and precision manoeuvres promise to leave the crowd spellbound. <br>AIRSHOW 2017 will be the most dynamic pageant of its kind ever staged in AAVARTAN. </p>
             </div>
             <span class="cn-note">Keep clicked to show image</span>
           </div>
@@ -301,15 +301,15 @@
             <h2>Adventure Zone</h2>
             <a class="cn-back">Back</a>
             <div class="cn-content">
-              <p>Adventure zone will comprise of:
-1. Bungee Trampoline
-2. Trampoline
-3. Land Zorbing ball
+              <p>Adventure zone will comprise of:<br>
+1. Bungee Trampoline<br>
+2. Trampoline<br>
+3. Land Zorbing ball<br>
 4. Climbing wall
-5. Darts
-6. Archery set
-7. Air gun set
-and lots of fun and adventure !!!
+<br>5. Darts<br>
+6. Archery set<br>
+7. Air gun set<br>
+and lots of fun and adventure !!!<br>
 So gear up for an exciting journey...</p>
             </div>
             <span class="cn-note">Keep clicked to show image</span>
@@ -319,7 +319,7 @@ So gear up for an exciting journey...</p>
             <h2>Sand Art</h2>
             <a  class="cn-back">Back</a>
             <div class="cn-content">
-              <p>The Sand Gallery this AAVARTAN would be setup by one of the most talented artist of India - Mr. Vivek Patil. He is the finalist of India's Got Talent Season 5.Sand Art is actually drawing in sand by hands. All this is happening on a specially designed table, which has under lighted glass top. </p>
+              <p>The Sand Gallery this AAVARTAN would be setup by one of the most talented artist of India - Mr. Vivek Patil.<br> He is the finalist of India's Got Talent Season 5.Sand Art is actually drawing in sand by hands. <br>All this is happening on a specially designed table, which has under lighted glass top. </p>
             </div>
             <span class="cn-note">Keep clicked to show image</span>
           </div>
@@ -328,7 +328,7 @@ So gear up for an exciting journey...</p>
             <h2>Laser Show</h2>
             <a  class="cn-back">Back</a>
             <div class="cn-content">
-              <p>Get ready to witness a Laser Show that will be performed by Laser ShowIndia, India's First & No.1 3D Laser Show company. Laser show will feature dazzling colourful laser animations, cartoons and beam effects all choreographed to a musical soundtrack and theme. </p>
+              <p>Get ready to witness a Laser Show that will be performed by Laser ShowIndia,<br> India's First & No.1 3D Laser Show company. <br>Laser show will feature dazzling colourful laser animations, <br>cartoons and beam effects all choreographed to a musical soundtrack and theme. </p>
             </div>
             <span class="cn-note">Keep clicked to show image</span>
           </div>
@@ -336,7 +336,7 @@ So gear up for an exciting journey...</p>
             <h2>Light Art</h2>
             <a  class="cn-back">Back</a>
             <div class="cn-content">
-              <p>India's first ever Radium-LED painter, Mr. Vivek Patil, shot to fame with his success on the India's Got Talent Season 5.
+              <p>India's first ever Radium-LED painter, Mr. Vivek Patil,<br> shot to fame with his success on the India's Got Talent Season 5.<br>
 The Light Art is drawing on a big luminescent area by ray of light possible to create various images and interactive stories.</p>
             </div>
             <span class="cn-note">Keep clicked to show image</span>
@@ -1171,7 +1171,7 @@ The Light Art is drawing on a big luminescent area by ray of light possible to c
       maxStep : 2,
       interval : 1500,
       w1024 : {
-        rows : 7,
+        rows : 6,
         columns : 5
       },
       w768 : {
